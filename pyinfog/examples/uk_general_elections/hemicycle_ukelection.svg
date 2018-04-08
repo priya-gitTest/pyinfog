@@ -1,0 +1,2703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="1324" version="1.1" width="1400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<path d="M95.0,840.0 A605,605,0,0,1,1305.0,839.9999999999999 " id="ct0"/>
+		<path d="M245.0,840.0 A455,455,0,0,1,1155.0,840.0 " id="ct1"/>
+	</defs>
+	<script id="script_0" type="text/ecmascript">function bringToFront(evt) { var p = evt.target.parentNode.parentNode; var c = evt.target.parentNode; p.removeChild(c); p.appendChild(c); }</script>
+	<text style="text-anchor:middle;stroke:purple;font-size:32;" x="700.0" y="132">UK General Election 2017</text>
+	<text style="text-anchor:middle;font-weight:bold;font-size:28;" x="700.0" y="192">Results</text>
+	<g>
+		<title>Conservative: 13636630, 42.3% votes</title>
+		<path d="M100.0,840.0 A600,600,0,0,1,557.0834797552744,257.2694720188937 L580.902899796062,354.3912266824114 A500,500,0,0,0,200.0,840.0 z" style="fill:#0575c9;"/>
+	</g>
+	<g>
+		<title>Labour: 12877842, 40.0% votes</title>
+		<path d="M557.0834797552744,257.2694720188937 A600,600,0,0,1,1209.9294993120468,523.8166580425761 L1124.9412494267058,576.5138817021468 A500,500,0,0,0,580.902899796062,354.3912266824114 z" style="fill:#ed1e0e;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 2371861, 7.4% votes</title>
+		<path d="M1209.9294993120468,523.8166580425761 A600,600,0,0,1,1268.848065810731,649.18103337616 L1174.0400548422758,680.9841944801333 A500,500,0,0,0,1124.9412494267058,576.5138817021468 z" style="fill:#ff8400;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 977568, 3.0% votes</title>
+		<path d="M1268.848065810731,649.18103337616 A600,600,0,0,1,1284.4331361657366,704.213736514029 L1187.0276134714472,726.8447804283576 A500,500,0,0,0,1174.0400548422758,680.9841944801333 z" style="fill:#ebc31c;"/>
+	</g>
+	<g>
+		<title>UK Independence Party: 594068, 1.8% votes</title>
+		<path d="M1284.4331361657366,704.213736514029 A600,600,0,0,1,1291.3167982595492,738.2923596966499 L1192.7639985496244,755.2436330805416 A500,500,0,0,0,1187.0276134714472,726.8447804283576 z" style="fill:#712f87;"/>
+	</g>
+	<g>
+		<title>Green Party: 525664, 1.6% votes</title>
+		<path d="M1291.3167982595492,738.2923596966499 A600,600,0,0,1,1295.752772479032,768.7354640543638 L1196.4606437325265,780.6128867119697 A500,500,0,0,0,1192.7639985496244,755.2436330805416 z" style="fill:#78c31e;"/>
+	</g>
+	<g>
+		<title>Democratic Unionist Party: 292316, 0.9% votes</title>
+		<path d="M1295.752772479032,768.7354640543638 A600,600,0,0,1,1297.5424829913093,785.7507509675862 L1197.9520691594244,794.7922924729885 A500,500,0,0,0,1196.4606437325265,780.6128867119697 z" style="fill:#c0153d;"/>
+	</g>
+	<g>
+		<title>Other: 247172, 0.8% votes</title>
+		<path d="M1297.5424829913093,785.7507509675862 A600,600,0,0,1,1298.6767322667747,800.173247152493 L1198.897276888979,806.8110392937442 A500,500,0,0,0,1197.9520691594244,794.7922924729885 z" style="fill:#505050;"/>
+	</g>
+	<g>
+		<title>Sinn Fein: 238915, 0.7% votes</title>
+		<path d="M1298.6767322667747,800.173247152493 A600,600,0,0,1,1299.442287231468,814.1360428645189 L1199.5352393595567,818.4467023870991 A500,500,0,0,0,1198.897276888979,806.8110392937442 z" style="fill:#00623f;"/>
+	</g>
+	<g>
+		<title>Plaid Cymru: 164466, 0.5% votes</title>
+		<path d="M1299.442287231468,814.1360428645189 A600,600,0,0,1,1299.7800829022417,823.7564734807934 L1199.816735751868,826.4637279006611 A500,500,0,0,0,1199.5352393595567,818.4467023870991 z" style="fill:#4b6b3f;"/>
+	</g>
+	<g>
+		<title>Social Democratic &amp; Labour Party: 95419, 0.3% votes</title>
+		<path d="M1299.7800829022417,823.7564734807934 A600,600,0,0,1,1299.9052975917825,829.3400787378616 L1199.9210813264854,831.1167322815513 A500,500,0,0,0,1199.816735751868,826.4637279006611 z" style="fill:#65a966;"/>
+	</g>
+	<g>
+		<title>Ulster Unionist Party: 83280, 0.3% votes</title>
+		<path d="M1299.9052975917825,829.3400787378616 A600,600,0,0,1,1299.9721023584289,834.2141213625963 L1199.9767519653574,835.1784344688302 A500,500,0,0,0,1199.9210813264854,831.1167322815513 z" style="fill:#6ab1e6;"/>
+	</g>
+	<g>
+		<title>Alliance Party: 64553, 0.2% votes</title>
+		<path d="M1299.9721023584289,834.2141213625963 A600,600,0,0,1,1299.996641367811,837.9924274990957 L1199.9972011398424,838.3270229159131 A500,500,0,0,0,1199.9767519653574,835.1784344688302 z" style="fill:#505050;"/>
+	</g>
+	<g>
+		<title>Speaker: 34299, 0.1% votes</title>
+		<path d="M1299.996641367811,837.9924274990957 A600,600,0,0,1,1300.0,839.9999999999999 L1200.0,839.9999999999999 A500,500,0,0,0,1199.9972011398424,838.3270229159131 z" style="fill:#000000;"/>
+	</g>
+	<text style="alignment-baseline:baseline;text-anchor:middle;font-size:24;">
+		<textPath startOffset="50%" xlink:href="#ct0">Votes</textPath>
+	</text>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="258.1918610903803" cy="832.0205355805032" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="280.0233267584086" cy="832.0205818283451" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="301.8552028161828" cy="832.0206358875347" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="323.6875606508287" cy="832.0206996215919" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="345.5204892248641" cy="832.020775484796" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="367.3541008394564" cy="832.0208667620387" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="389.1885393245568" cy="832.0209779304844" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="411.0239919380904" cy="832.0211152192177" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="432.8607070937011" cy="832.0212875011837" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="454.6990215436448" cy="832.021507763622" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="476.5394034735779" cy="832.0217956291781" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="498.382523549066" cy="832.0221818822004" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="520.2293776249387" cy="832.0227170537744" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="542.0815109801379" cy="832.023488827634" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="259.0167916132306" cy="811.859044434935" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="280.9038470894868" cy="811.6717138351025" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="302.7752589583116" cy="811.7961903185789" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="324.67730294923916" cy="811.5817959400075" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="346.56046558026884" cy="811.7177247660767" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="368.449620902525" cy="811.8698219721899" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="390.3843753024992" cy="811.617015245667" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="412.2938510119248" cy="811.787100960849" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="434.2673413789149" cy="811.4830610025203" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="260.7612920270715" cy="791.7562348331289" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="456.2091879216987" cy="811.6756938970511" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="282.7697378166276" cy="791.3894507351862" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="304.7219851967033" cy="791.6446405313023" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="478.2470248957428" cy="811.2962027366117" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="326.77633461912484" cy="791.2268840126333" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="348.7623544993439" cy="791.5076504343295" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="500.24512462237703" cy="811.5176869753539" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="370.76472636629524" cy="791.8222521188961" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="263.4217245742175" cy="771.7540265989753" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="392.91822616615497" cy="791.3357106345154" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="522.2774041991994" cy="811.7902028694594" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="285.6166118953018" cy="771.2214797752699" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="414.9787408495473" cy="791.6918467540692" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="307.6903500078699" cy="771.6180703750285" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="544.5109585880416" cy="811.2766313676569" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="437.2506442070073" cy="791.1140337317194" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="329.97845184297074" cy="771.0161240366429" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="352.11891739627845" cy="771.4569919706877" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="459.40395051172777" cy="791.5256011832222" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="266.9925415294473" cy="751.8941297751597" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="374.29090127360735" cy="771.9519008171671" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="289.43777581277016" cy="751.2152194806598" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="481.8727251223102" cy="790.818886761687" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="396.7791417892924" cy="771.2647104730742" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="311.67268133347363" cy="751.7682406757731" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="419.0654563049053" cy="771.8341874795673" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="334.2741905658966" cy="751.0092501592301" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="504.1875597704543" cy="791.3097479600461" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="271.466296768519" cy="732.2179576463834" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="356.6191197595905" cy="751.6316647855961" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="441.7929147814434" cy="771.0350610052238" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="294.22424532573535" cy="731.4177081658174" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="379.0151748311568" cy="752.3318597956883" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="526.5951800500856" cy="791.9179645765826" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="316.6586864095879" cy="732.146455454818" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="464.2612334819505" cy="771.7104669033406" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="401.9504370883299" cy="751.4907522992609" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="276.8336612953637" cy="712.7665403814043" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="339.6508544672553" cy="731.2653939296539" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="424.53389760567023" cy="752.3117894502432" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="362.2481674274623" cy="732.0968435256123" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="299.96476658391265" cy="711.8754933388263" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="487.38514322676974" cy="770.7669686910519" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="549.6540109392458" cy="791.0310559829727" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="322.6354783694529" cy="712.8034293279469" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="384.920169121671" cy="733.0343000338928" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="283.0834426955786" cy="693.5804394739796" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="447.8672025001967" cy="751.365277162168" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="510.168780628681" cy="771.6087685126098" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="346.0925524853905" cy="711.8429095322989" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="408.40976412751564" cy="732.0992899735256" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="306.64584258985536" cy="692.6345222598327" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="470.74747297316173" cy="752.367213773497" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="368.98755522271415" cy="712.9167478154261" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="329.5876095509703" cy="693.7891564280619" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="431.3571692103399" cy="733.2206700570755" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="290.20260847565487" cy="674.6996631611224" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="533.1275615501368" cy="772.6597965690806" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="391.98416302738934" cy="714.1302062859488" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="353.58024578465" cy="692.7992013172855" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="314.25176493282197" cy="673.7400339107766" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="494.73659889131636" cy="751.3138899814483" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="455.4374668614475" cy="732.2213887059658" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="416.12920869632296" cy="713.1741243869667" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="376.8151277875317" cy="694.1544311394608" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="337.49711142284787" cy="675.1527811899666" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="298.17631323926923" cy="656.1635829950499" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="557.4209111535964" cy="771.6400897562867" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="518.1265111353282" cy="752.619873881095" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="478.81784902523367" cy="733.6295038077435" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="439.5017120891047" cy="714.6547255249159" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="400.1811721297099" cy="695.6891159681952" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="322.76465072207367" cy="655.2364526304133" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="362.0918040258375" cy="674.1905541383736" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="306.9879296439724" cy="638.0108517427914" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="346.34354102620335" cy="656.9424713312848" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="385.70515241795755" cy="675.8715735570939" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="425.0754109416999" cy="694.7970413128122" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="464.45879130228036" cy="713.7169818509495" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="541.7911216701809" cy="754.261650762675" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="503.86350482344585" cy="732.6279123571468" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="332.1644846327656" cy="637.1672836647065" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="409.48104429109696" cy="677.7788633705087" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="371.6020707737953" cy="656.0719669996082" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="448.92746877787863" cy="696.7052691008537" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="316.6190830737186" cy="620.2793227846602" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="356.1040338115913" cy="639.2052933578101" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="488.41659528335316" cy="715.6268147126448" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="395.6284036587058" cy="658.1282789329358" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="527.9778959456428" cy="734.5407751352423" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="435.2097095338553" cy="677.0474579663052" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="342.4291659655733" cy="619.5750108781742" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="382.0829378487987" cy="638.4969905023705" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="327.04968995493624" cy="603.0059711796631" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="474.87764970161265" cy="695.9618485825846" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="419.8495705676569" cy="660.4653301325078" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="567.6761107894091" cy="753.442145076357" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="366.75336273489256" cy="621.9870909150558" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="459.5880803937058" cy="679.4605819464933" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="514.6869167618242" cy="714.8706624100969" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="406.5522593802006" cy="640.9828773487601" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="353.53456060941" cy="602.5009968666858" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="552.475215451276" cy="736.9584954682166" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="338.2579996362392" cy="586.2268165624494" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="499.4773843439225" cy="698.4835451954218" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="446.48830874256464" cy="660.0020798003957" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="393.50342840201466" cy="621.517568573275" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="378.2640034593244" cy="605.3323663004194" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="431.24861104439975" cy="643.8122029024452" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="486.6322239661164" cy="679.0613352299374" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="365.45455778506033" cy="585.985385706564" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="539.6203631160195" cy="717.5597106123716" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="418.44080802198965" cy="624.4917333466448" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="350.2206397444491" cy="569.9768480325781" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="471.43111464255895" cy="663.0054789429943" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="405.82978846948834" cy="605.1838849406911" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="390.60620549505165" cy="589.2841654422042" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="458.86246770196885" cy="643.7345690204096" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="527.1132163140915" cy="698.1957335914435" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="443.63623513030865" cy="627.8807390702266" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="511.92378607738084" cy="682.3181553680184" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="378.16113143631645" cy="570.0670085686438" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="362.91266492234814" cy="554.2899511927334" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="431.2549666499769" cy="608.7090606337146" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="580.2406354435841" cy="736.7548136432373" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="565.0433930851025" cy="720.9713145399865" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="499.65277081480394" cy="663.1157174155073" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="419.02558673406446" cy="589.5442148136406" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="484.3983236981137" cy="647.4208915443876" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="403.74806909253" cy="573.8839666427859" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="391.6244061242739" cy="554.78329241921" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="376.3076088465314" cy="539.1988374880282" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="472.27871104595215" cy="628.3152262502203" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="456.96687579715183" cy="612.7295414362909" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="552.9326920760489" cy="701.8534859927136" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="444.95260943936694" cy="593.6867438576323" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="541.034920720311" cy="682.7473576866539" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="525.6697957609325" cy="667.2423481869002" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="433.0518222003913" cy="574.6447822014402" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="417.65562769084136" cy="559.1715733734752" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="390.3775394168874" cy="524.734975993748" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="405.81272726985947" cy="540.1701720224712" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="498.42593068316876" cy="632.7834697308268" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="513.8620355860395" cy="648.2196050910227" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="471.1914971946808" cy="598.4143426452143" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="486.6790600038302" cy="613.8106867256128" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="459.48870616094155" cy="579.4741680387417" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="432.29293570792703" cy="545.1850113981616" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="579.3351425559298" cy="706.5042851237419" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="447.8670394647675" cy="560.5296232957928" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="405.093117002621" cy="510.92852779377233" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="420.69273557943706" cy="526.2620054514687" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="594.8952082243916" cy="721.869323837518" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="567.7762757687909" cy="687.5856334107812" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="540.6204283717818" cy="653.3602975848471" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="513.4449433447048" cy="619.1652050194955" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="556.3316125379199" cy="668.6591572654884" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="486.25777502565245" cy="584.9878001769894" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="529.1757106117384" cy="634.4613811892967" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="502.0012829576609" cy="600.2836323277526" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="474.81547021540257" cy="566.1180562195941" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="447.6221614458128" cy="531.960430491635" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="420.42365562336175" cy="497.8082830865142" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="463.4274512391429" cy="547.2404563191074" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="436.2294454785041" cy="513.0914933060701" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="436.3371869377754" cy="485.4016011495283" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="502.1102890171793" cy="572.499302650084" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="463.60368487070457" cy="519.5320110066014" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="529.3814933798283" cy="606.6330763873246" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="490.88251572912486" cy="553.662315865578" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="452.3863273690664" cy="500.68960182798196" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="479.6870677671486" cy="534.8165582237207" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="518.1791643783847" cy="587.7925207012173" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="556.6723749343024" cy="640.7679286283507" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="595.1679395883444" cy="693.7421700483424" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="545.50293543909" cy="621.9226772227837" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="583.9965638179533" cy="674.9047087699912" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="572.8709812067601" cy="656.0529898976472" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="611.3840765858777" cy="709.0454581839118" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="452.8005269062483" cy="473.7343532879785" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="480.1962000152297" cy="507.9318755308825" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="469.12539351728975" cy="489.0854900935468" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="518.6907267804137" cy="560.9947881487856" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="507.63702319487925" cy="542.1478945215993" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="496.5978327496572" cy="523.2946486064434" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="546.157199743686" cy="595.2487208469837" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="535.1427909785782" cy="576.391332627215" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="469.7793449886325" cy="462.8308688859324" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="573.7147163857802" cy="629.5522546747359" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="562.7468359318428" cy="610.6778889402601" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="497.3568217381556" cy="497.1900058631304" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="486.4072873694917" cy="478.3064414555138" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="514.1097653781377" cy="512.708781181527" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="525.0239131129867" cy="531.6126451993337" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="535.9380983086835" cy="550.5165752430988" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="590.5099674850468" cy="645.037894131189" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="601.4246716958197" cy="663.9427449887773" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="612.3395787202367" cy="682.8479581635179" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="487.2382357327559" cy="452.7138846729805" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="552.8188538452015" cy="566.129338743727" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="563.6895541524871" cy="585.0681302963592" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="504.1913760864738" cy="468.3777993949718" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="515.0411965656527" cy="487.33416552164186" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="629.4194757377325" cy="698.5070196099374" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="580.805099052508" cy="600.7937349153796" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="532.1711080560168" cy="503.0902431328125" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="542.9860270620723" cy="522.0912019375817" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="591.6296900279101" cy="619.7907761092549" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="505.14079260441713" cy="443.4044973119727" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="553.7889603250619" cy="541.1032073227796" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="522.4358460786316" cy="459.32290793426887" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="533.2036173276217" cy="478.38982798655707" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="571.1309652466618" cy="557.0508866207012" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="581.8923268856038" cy="576.1413761325115" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="609.0960008573422" cy="635.7091463506047" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="523.4496839049079" cy="434.92211940674065" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="619.87913913738" cy="654.8138772828906" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="550.7284793714467" cy="494.46746264252914" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="561.4643156041553" cy="513.6148659448188" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="630.6307557302017" cy="673.9607827597406" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="572.1776496541231" cy="532.7893108181104" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="541.09780131722" cy="451.16305675101944" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="599.5705799151347" cy="592.3288606861232" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="551.7971412927936" cy="470.3801108609088" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="610.2935032678625" cy="611.5509448168845" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="542.1267306177551" cy="427.28443902154" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="589.9999887451002" cy="549.1952091104579" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="569.7270318693586" cy="486.8659248700496" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="600.6759908908887" cy="568.5123629845457" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="580.3980324063523" cy="506.21150269823295" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="560.133364190629" cy="443.91743112224526" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="591.0365247594441" cy="525.6054678289452" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="648.6866507349041" cy="690.4379256228456" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="570.7737114972717" cy="463.3257161206889" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="628.468319211424" cy="628.1474366723681" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="561.132986022351" cy="420.50738279662744" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="618.9319375068357" cy="585.3334907939002" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="639.1678194921756" cy="647.6131547973534" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="589.1106141564983" cy="480.3080966289294" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="609.3443811873103" cy="542.5962548015297" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="629.5771890259639" cy="604.8896980893301" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="579.4977786685356" cy="437.6030668163395" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="599.7249339410237" cy="499.9054503375397" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="649.8078684383935" cy="667.1941446546923" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="619.9481621073212" cy="562.2186127766186" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="590.0842809529265" cy="457.2448766083633" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="580.428816908455" cy="414.6050827368855" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="610.2962145583716" cy="519.5781036305447" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="608.8219368603305" cy="474.8133599848551" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="599.1455155313774" cy="432.2348100389135" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="648.459359369348" cy="622.41817100615" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="638.7742953061451" cy="579.849130786851" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="629.0805450963626" cy="537.2825413086333" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="619.3814841078666" cy="494.7174396547176" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="609.6789394146158" cy="452.15330890812857" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="599.9739862222134" cy="409.5898467427495" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="629.8858735988067" cy="514.729389470009" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="639.6140538393364" cy="557.2910801831267" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="649.347496899116" cy="599.8530651879435" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="659.089880342057" cy="642.4155509612752" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="668.8493496011275" cy="684.9789985694634" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="619.0303794177327" cy="427.8252825266981" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="628.802741951312" cy="470.3979549707535" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="619.7277369713563" cy="405.4721329448892" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="629.5070423785851" cy="448.0641727247079" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="639.3030631052656" cy="490.66452594269737" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="669.6260001109489" cy="662.6344626398326" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="649.1231899410602" cy="533.2770320327886" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="658.979922878569" cy="575.9083209554531" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="649.7334426593557" cy="511.0771610108605" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="639.1056174379186" cy="424.38485187157164" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="659.576942948079" cy="553.7540003837275" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="668.8962064451387" cy="618.570905318602" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="639.6488772146093" cy="402.2605278961623" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="648.9939749280894" cy="467.0749315883736" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="649.5173419786382" cy="444.98803687067846" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="669.4678139220117" cy="596.4758492812052" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="659.4241798642512" cy="487.7600329270469" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="679.437894554561" cy="639.2751828696455" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="669.3857007219909" cy="530.5970369241677" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="659.324029098441" cy="421.92160714448767" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="659.6958659580895" cy="399.9617286663175" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="669.7659138142502" cy="508.6348527257758" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="669.3359593567191" cy="464.85411123820137" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="679.4289344052249" cy="573.5344432615885" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="669.658119441763" cy="442.93285195023765" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="679.7386455667032" cy="551.6247698669836" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="689.5556916200239" cy="682.2255079955472" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="679.6786873467004" cy="486.01350896497394" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="689.8320473660208" cy="660.3399697997517" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="679.6380772788386" cy="420.4413398766151" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="689.6020894927174" cy="616.6389169931128" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Conservative: 317, 48.8% seats</title>
+		<circle cx="679.8268997795739" cy="398.58052887678315" fill="#0575c9" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="689.7991085636775" cy="594.7813869545879" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="689.7805122813131" cy="529.2541376765316" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="689.90959898801" cy="507.41144847879553" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="689.7685732480466" cy="463.7420576917053" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="689.8773187608676" cy="441.90392981001037" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="700.0" cy="638.2247478198487" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="700.0" cy="572.7415826066162" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="700.0" cy="550.913860868872" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="700.0" cy="485.4306956556395" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="700.0" cy="419.947530442407" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="700.0" cy="398.1198087046628" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="710.1226812391324" cy="441.90392981001037" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="710.2314267519534" cy="463.7420576917053" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="710.09040101199" cy="507.41144847879553" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="710.2194877186868" cy="529.2541376765316" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="710.2008914363224" cy="594.7813869545879" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="720.173100220426" cy="398.58052887678315" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="710.3979105072826" cy="616.6389169931128" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="720.3619227211612" cy="420.4413398766151" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="710.1679526339792" cy="660.3399697997515" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="720.3213126532995" cy="486.01350896497394" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="710.4443083799761" cy="682.2255079955472" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="720.2613544332967" cy="551.6247698669836" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="730.3418805582369" cy="442.93285195023765" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="720.5710655947751" cy="573.5344432615885" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="730.6640406432808" cy="464.85411123820137" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="730.2340861857498" cy="508.6348527257758" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="740.3041340419104" cy="399.9617286663175" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="740.6759709015589" cy="421.92160714448767" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="730.614299278009" cy="530.5970369241677" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="720.562105445439" cy="639.2751828696455" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="740.5758201357489" cy="487.7600329270469" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="730.5321860779883" cy="596.4758492812052" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="750.4826580213619" cy="444.98803687067846" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="751.0060250719105" cy="467.0749315883736" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="760.3511227853907" cy="402.2605278961623" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="731.1037935548613" cy="618.570905318602" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="740.4230570519209" cy="553.7540003837275" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="760.8943825620814" cy="424.38485187157164" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="750.2665573406442" cy="511.0771610108605" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="741.020077121431" cy="575.9083209554531" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="750.8768100589397" cy="533.2770320327886" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="730.3739998890511" cy="662.6344626398326" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="760.6969368947343" cy="490.66452594269737" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="770.4929576214147" cy="448.0641727247079" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="780.2722630286436" cy="405.47213294488915" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="771.1972580486879" cy="470.3979549707535" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="780.9696205822673" cy="427.8252825266981" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="731.1506503988724" cy="684.9789985694634" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="740.910119657943" cy="642.4155509612752" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="750.6525031008839" cy="599.8530651879435" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="760.3859461606636" cy="557.2910801831267" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="770.1141264011933" cy="514.729389470009" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="800.0260137777865" cy="409.58984674274944" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="790.3210605853841" cy="452.1533089081285" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="780.6185158921334" cy="494.71743965471757" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="770.9194549036374" cy="537.2825413086333" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="761.2257046938548" cy="579.8491307868509" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="751.540640630652" cy="622.41817100615" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="800.8544844686226" cy="432.2348100389135" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="791.1780631396695" cy="474.8133599848551" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="789.7037854416283" cy="519.5781036305447" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="819.5711830915449" cy="414.6050827368855" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="809.9157190470735" cy="457.24487660836326" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="780.0518378926788" cy="562.2186127766187" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="750.1921315616065" cy="667.1941446546923" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="800.2750660589762" cy="499.90545033753966" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="820.5022213314644" cy="437.60306681633944" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="770.4228109740362" cy="604.8896980893301" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="790.6556188126896" cy="542.5962548015295" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="810.8893858435017" cy="480.3080966289294" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="760.8321805078244" cy="647.6131547973534" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="781.0680624931642" cy="585.3334907939002" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="838.8670139776489" cy="420.5073827966274" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="771.531680788576" cy="628.147436672368" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="829.2262885027283" cy="463.32571612068887" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="751.3133492650959" cy="690.4379256228456" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="808.9634752405558" cy="525.6054678289452" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="839.866635809371" cy="443.9174311222452" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="819.6019675936477" cy="506.21150269823295" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="799.3240091091112" cy="568.5123629845457" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="830.2729681306414" cy="486.8659248700496" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="810.0000112548997" cy="549.1952091104579" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="857.8732693822448" cy="427.2844390215399" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="789.7064967321375" cy="611.5509448168845" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="848.2028587072062" cy="470.3801108609088" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="800.4294200848653" cy="592.3288606861232" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="858.90219868278" cy="451.16305675101944" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="827.8223503458769" cy="532.7893108181104" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="769.3692442697983" cy="673.9607827597406" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="838.5356843958447" cy="513.6148659448187" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="849.2715206285532" cy="494.46746264252914" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="780.1208608626199" cy="654.8138772828905" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="876.5503160950921" cy="434.9221194067406" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="790.9039991426578" cy="635.7091463506047" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="818.1076731143962" cy="576.1413761325115" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="828.8690347533383" cy="557.0508866207012" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="866.7963826723782" cy="478.389827986557" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="877.5641539213683" cy="459.32290793426876" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="846.2110396749381" cy="541.1032073227796" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="894.8592073955829" cy="443.40449731197276" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="808.37030997209" cy="619.7907761092549" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="857.0139729379277" cy="522.0912019375817" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="867.8288919439831" cy="503.0902431328124" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="819.194900947492" cy="600.7937349153796" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="770.5805242622675" cy="698.5070196099374" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="884.9588034343471" cy="487.3341655216418" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="895.8086239135262" cy="468.37779939497176" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="836.3104458475129" cy="585.0681302963592" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="847.1811461547985" cy="566.129338743727" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="912.7617642672441" cy="452.71388467298044" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="787.6604212797633" cy="682.8479581635179" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="798.5753283041803" cy="663.9427449887773" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="809.4900325149531" cy="645.0378941311889" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="864.0619016913164" cy="550.5165752430987" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="874.9760868870131" cy="531.6126451993334" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="885.8902346218622" cy="512.708781181527" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="913.5927126305082" cy="478.3064414555137" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="902.6431782618444" cy="497.19000586313035" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="837.2531640681572" cy="610.6778889402601" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="826.2852836142198" cy="629.5522546747359" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="930.2206550113675" cy="462.83086888593243" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="864.8572090214218" cy="576.391332627215" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="853.8428002563139" cy="595.2487208469836" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="903.4021672503428" cy="523.2946486064434" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="892.3629768051208" cy="542.1478945215994" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="881.3092732195864" cy="560.9947881487856" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="930.8746064827102" cy="489.0854900935467" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="919.8037999847703" cy="507.93187553088245" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="947.1994730937516" cy="473.7343532879784" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="788.6159234141223" cy="709.0454581839118" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="827.1290187932399" cy="656.0529898976472" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="816.0034361820467" cy="674.9047087699912" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="854.4970645609098" cy="621.9226772227837" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="804.8320604116556" cy="693.7421700483424" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="843.3276250656976" cy="640.7679286283507" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="881.8208356216153" cy="587.7925207012172" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="920.3129322328513" cy="534.8165582237207" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="947.6136726309336" cy="500.68960182798196" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="909.1174842708751" cy="553.662315865578" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="870.6185066201718" cy="606.6330763873248" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="936.3963151292954" cy="519.5320110066014" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="897.8897109828207" cy="572.499302650084" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="963.6628130622246" cy="485.4016011495283" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="963.7705545214958" cy="513.0914933060701" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="936.5725487608571" cy="547.2404563191074" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="979.5763443766382" cy="497.80828308651417" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="952.3778385541872" cy="531.960430491635" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="925.1845297845973" cy="566.1180562195939" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="897.9987170423392" cy="600.2836323277526" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="870.8242893882616" cy="634.4613811892967" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="913.7422249743476" cy="584.9878001769894" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="843.66838746208" cy="668.6591572654884" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="886.5550566552952" cy="619.1652050194955" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="859.3795716282182" cy="653.3602975848471" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="832.2237242312091" cy="687.5856334107812" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="805.1047917756083" cy="721.869323837518" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="979.3072644205629" cy="526.2620054514684" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="994.906882997379" cy="510.92852779377233" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="952.1329605352325" cy="560.5296232957928" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="820.6648574440703" cy="706.5042851237419" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="967.7070642920729" cy="545.1850113981616" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="940.5112938390583" cy="579.4741680387415" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="913.3209399961697" cy="613.8106867256126" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="928.8085028053192" cy="598.4143426452143" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="886.1379644139605" cy="648.2196050910226" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="901.5740693168312" cy="632.7834697308268" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="994.1872727301406" cy="540.1701720224712" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1009.6224605831126" cy="524.7349759937479" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="982.3443723091586" cy="559.1715733734751" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="966.9481777996086" cy="574.6447822014402" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="874.3302042390675" cy="667.2423481869002" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="858.965079279689" cy="682.7473576866539" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="955.0473905606331" cy="593.6867438576323" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="847.0673079239511" cy="701.8534859927136" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="943.0331242028482" cy="612.7295414362908" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="927.7212889540478" cy="628.3152262502203" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1023.6923911534685" cy="539.198837488028" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1008.375593875726" cy="554.78329241921" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="996.25193090747" cy="573.8839666427859" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="915.6016763018863" cy="647.4208915443877" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="980.9744132659355" cy="589.5442148136405" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="900.347229185196" cy="663.1157174155073" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="834.9566069148976" cy="720.9713145399866" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="819.7593645564159" cy="736.7548136432373" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="968.745033350023" cy="608.7090606337147" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1037.087335077652" cy="554.2899511927333" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1021.8388685636835" cy="570.0670085686438" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="888.0762139226191" cy="682.3181553680184" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="956.3637648696913" cy="627.8807390702266" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="872.8867836859085" cy="698.1957335914434" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="941.1375322980311" cy="643.7345690204096" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1009.3937945049482" cy="589.2841654422041" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="994.1702115305118" cy="605.1838849406912" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="928.568885357441" cy="663.0054789429943" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1049.7793602555507" cy="569.9768480325781" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="981.5591919780102" cy="624.4917333466447" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="860.3796368839805" cy="717.5597106123718" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1034.5454422149396" cy="585.9853857065639" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="913.3677760338836" cy="679.0613352299374" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="968.7513889556003" cy="643.8122029024453" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1021.7359965406756" cy="605.3323663004192" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1006.4965715979854" cy="621.517568573275" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="953.5116912574352" cy="660.0020798003954" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="900.5226156560775" cy="698.4835451954218" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1061.7420003637608" cy="586.2268165624494" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="847.524784548724" cy="736.9584954682165" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1046.46543939059" cy="602.5009968666859" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="993.4477406197993" cy="640.98287734876" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="885.3130832381758" cy="714.8706624100969" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="940.4119196062943" cy="679.4605819464933" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1033.2466372651074" cy="621.9870909150558" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="832.3238892105909" cy="753.442145076357" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="980.150429432343" cy="660.4653301325077" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="925.1223502983873" cy="695.9618485825845" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1072.9503100450638" cy="603.005971179663" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1017.9170621512013" cy="638.4969905023705" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1057.5708340344268" cy="619.5750108781741" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="964.7902904661446" cy="677.047457966305" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="872.0221040543572" cy="734.5407751352423" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1004.3715963412942" cy="658.1282789329358" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="911.5834047166468" cy="715.6268147126448" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1043.8959661884087" cy="639.20529335781" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1083.3809169262813" cy="620.27932278466" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="951.0725312221214" cy="696.7052691008537" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1028.3979292262047" cy="656.0719669996082" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="990.5189557089031" cy="677.7788633705087" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1067.8355153672344" cy="637.1672836647064" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="896.1364951765541" cy="732.6279123571468" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="858.2088783298191" cy="754.261650762675" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="935.5412086977196" cy="713.7169818509495" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="974.9245890583002" cy="694.7970413128121" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1014.2948475820424" cy="675.8715735570938" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1053.6564589737966" cy="656.9424713312845" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1093.0120703560274" cy="638.0108517427911" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1037.9081959741625" cy="674.1905541383737" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1077.2353492779262" cy="655.2364526304132" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="999.8188278702901" cy="695.6891159681952" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="960.4982879108952" cy="714.6547255249158" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="921.1821509747664" cy="733.6295038077436" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="881.8734888646718" cy="752.6198738810951" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="842.5790888464036" cy="771.6400897562867" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1101.8236867607307" cy="656.1635829950498" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1062.5028885771521" cy="675.1527811899664" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1023.1848722124682" cy="694.1544311394607" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="983.870791303677" cy="713.1741243869666" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="944.5625331385525" cy="732.2213887059656" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="905.2634011086835" cy="751.3138899814481" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1085.748235067178" cy="673.7400339107766" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1046.41975421535" cy="692.7992013172853" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1008.0158369726107" cy="714.1302062859488" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="866.8724384498632" cy="772.6597965690806" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1109.7973915243451" cy="674.6996631611222" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="968.6428307896601" cy="733.2206700570756" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1070.4123904490298" cy="693.7891564280617" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1031.012444777286" cy="712.916747815426" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="929.2525270268382" cy="752.3672137734969" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1093.3541574101446" cy="692.6345222598326" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="991.5902358724843" cy="732.0992899735255" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="1053.9074475146094" cy="711.8429095322989" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="889.831219371319" cy="771.6087685126098" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Labour: 262, 40.3% seats</title>
+		<circle cx="952.1327974998034" cy="751.365277162168" fill="#ed1e0e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1116.9165573044213" cy="693.5804394739795" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1015.079830878329" cy="733.0343000338927" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1077.364521630547" cy="712.8034293279468" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="850.3459890607542" cy="791.0310559829726" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="912.6148567732303" cy="770.7669686910519" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1100.0352334160873" cy="711.8754933388263" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1037.7518325725378" cy="732.0968435256123" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="975.4661023943297" cy="752.3117894502432" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1060.3491455327448" cy="731.2653939296539" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1123.1663387046362" cy="712.7665403814043" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="998.04956291167" cy="751.4907522992607" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="935.7387665180495" cy="771.7104669033406" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1083.341313590412" cy="732.146455454818" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="873.4048199499144" cy="791.9179645765826" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1020.9848251688431" cy="752.3318597956883" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1105.7757546742646" cy="731.4177081658174" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="958.2070852185566" cy="771.0350610052238" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1043.3808802404096" cy="751.6316647855961" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1128.533703231481" cy="732.2179576463833" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="895.8124402295457" cy="791.3097479600461" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1065.7258094341034" cy="751.0092501592301" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="980.9345436950946" cy="771.8341874795672" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1088.3273186665265" cy="751.7682406757731" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1003.2208582107075" cy="771.264710473074" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="918.1272748776898" cy="790.818886761687" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1110.5622241872297" cy="751.2152194806597" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1025.7090987263928" cy="771.9519008171671" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1133.0074584705526" cy="751.8941297751597" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="940.5960494882722" cy="791.5256011832222" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1047.8810826037216" cy="771.4569919706876" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1070.0215481570292" cy="771.0161240366429" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="962.7493557929927" cy="791.1140337317192" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="855.4890414119584" cy="811.2766313676569" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="1092.30964999213" cy="771.6180703750283" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Scottish National Party: 35, 5.4% seats</title>
+		<circle cx="985.0212591504527" cy="791.6918467540692" fill="#ebc31c" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 12, 1.8% seats</title>
+		<circle cx="1114.3833881046983" cy="771.2214797752698" fill="#ff8400" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 12, 1.8% seats</title>
+		<circle cx="877.7225958008006" cy="811.7902028694594" fill="#ff8400" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 12, 1.8% seats</title>
+		<circle cx="1007.0817738338451" cy="791.3357106345154" fill="#ff8400" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 12, 1.8% seats</title>
+		<circle cx="1136.5782754257825" cy="771.7540265989753" fill="#ff8400" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 12, 1.8% seats</title>
+		<circle cx="1029.2352736337048" cy="791.8222521188961" fill="#ff8400" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 12, 1.8% seats</title>
+		<circle cx="899.754875377623" cy="811.5176869753539" fill="#ff8400" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 12, 1.8% seats</title>
+		<circle cx="1051.237645500656" cy="791.5076504343293" fill="#ff8400" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 12, 1.8% seats</title>
+		<circle cx="1073.2236653808752" cy="791.2268840126334" fill="#ff8400" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 12, 1.8% seats</title>
+		<circle cx="921.7529751042572" cy="811.2962027366117" fill="#ff8400" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 12, 1.8% seats</title>
+		<circle cx="1095.2780148032966" cy="791.6446405313021" fill="#ff8400" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 12, 1.8% seats</title>
+		<circle cx="1117.2302621833724" cy="791.3894507351861" fill="#ff8400" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Liberal Democrats: 12, 1.8% seats</title>
+		<circle cx="943.7908120783013" cy="811.6756938970511" fill="#ff8400" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Democratic Unionist Party: 10, 1.5% seats</title>
+		<circle cx="1139.2387079729285" cy="791.7562348331288" fill="#c0153d" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Democratic Unionist Party: 10, 1.5% seats</title>
+		<circle cx="965.7326586210851" cy="811.4830610025202" fill="#c0153d" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Democratic Unionist Party: 10, 1.5% seats</title>
+		<circle cx="987.7061489880753" cy="811.7871009608489" fill="#c0153d" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Democratic Unionist Party: 10, 1.5% seats</title>
+		<circle cx="1009.6156246975008" cy="811.6170152456668" fill="#c0153d" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Democratic Unionist Party: 10, 1.5% seats</title>
+		<circle cx="1031.550379097475" cy="811.8698219721899" fill="#c0153d" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Democratic Unionist Party: 10, 1.5% seats</title>
+		<circle cx="1053.4395344197312" cy="811.7177247660767" fill="#c0153d" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Democratic Unionist Party: 10, 1.5% seats</title>
+		<circle cx="1075.3226970507608" cy="811.5817959400075" fill="#c0153d" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Democratic Unionist Party: 10, 1.5% seats</title>
+		<circle cx="1097.2247410416885" cy="811.7961903185787" fill="#c0153d" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Democratic Unionist Party: 10, 1.5% seats</title>
+		<circle cx="1119.0961529105132" cy="811.6717138351025" fill="#c0153d" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Democratic Unionist Party: 10, 1.5% seats</title>
+		<circle cx="1140.9832083867693" cy="811.859044434935" fill="#c0153d" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Sinn Fein: 7, 1.1% seats</title>
+		<circle cx="857.9184890198621" cy="832.023488827634" fill="#00623f" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Sinn Fein: 7, 1.1% seats</title>
+		<circle cx="879.7706223750613" cy="832.0227170537744" fill="#00623f" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Sinn Fein: 7, 1.1% seats</title>
+		<circle cx="901.617476450934" cy="832.0221818822004" fill="#00623f" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Sinn Fein: 7, 1.1% seats</title>
+		<circle cx="923.460596526422" cy="832.021795629178" fill="#00623f" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Sinn Fein: 7, 1.1% seats</title>
+		<circle cx="945.3009784563552" cy="832.0215077636219" fill="#00623f" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Sinn Fein: 7, 1.1% seats</title>
+		<circle cx="967.1392929062989" cy="832.0212875011837" fill="#00623f" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Sinn Fein: 7, 1.1% seats</title>
+		<circle cx="988.9760080619096" cy="832.0211152192177" fill="#00623f" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Plaid Cymru: 4, 0.6% seats</title>
+		<circle cx="1010.8114606754432" cy="832.0209779304843" fill="#4b6b3f" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Plaid Cymru: 4, 0.6% seats</title>
+		<circle cx="1032.6458991605436" cy="832.0208667620386" fill="#4b6b3f" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Plaid Cymru: 4, 0.6% seats</title>
+		<circle cx="1054.4795107751359" cy="832.0207754847959" fill="#4b6b3f" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Plaid Cymru: 4, 0.6% seats</title>
+		<circle cx="1076.3124393491712" cy="832.020699621592" fill="#4b6b3f" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Speaker: 1, 0.2% seats</title>
+		<circle cx="1098.1447971838172" cy="832.0206358875346" fill="#000000" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Other: 1, 0.2% seats</title>
+		<circle cx="1119.9766732415915" cy="832.020581828345" fill="#505050" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<g>
+		<title>Green Party: 1, 0.2% seats</title>
+		<circle cx="1141.8081389096196" cy="832.0205355805032" fill="#78c31e" r="7.979898154674814" style="stroke-width:0.7979898154674814;stroke:black;"/>
+	</g>
+	<text style="alignment-baseline:baseline;text-anchor:middle;font-size:24;">
+		<textPath startOffset="50%" xlink:href="#ct1">Parliamentary Seats</textPath>
+	</text>
+	<a href="http://explore.data.parliament.uk/?learnmore=Election%20Results" target="_new">
+		<text style="text-anchor:middle;text-decoration:underline;stroke:blue;font-size:20;" x="700.0" y="880">source: http://explore.data.parliament.uk/?learnmore=Election Results</text>
+	</a>
+	<path d="M100.0 944 124.0 944 124.0 968 100.0 968Z" fill="#0575c9" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="956.0">Conservative</text>
+	<path d="M500.0 944 524.0 944 524.0 968 500.0 968Z" fill="#ed1e0e" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="536.0" y="956.0">Labour</text>
+	<path d="M900.0 944 924.0 944 924.0 968 900.0 968Z" fill="#ebc31c" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="936.0" y="956.0">Scottish National Party</text>
+	<path d="M100.0 992 124.0 992 124.0 1016 100.0 1016Z" fill="#ff8400" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="1004.0">Liberal Democrats</text>
+	<path d="M500.0 992 524.0 992 524.0 1016 500.0 1016Z" fill="#c0153d" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="536.0" y="1004.0">Democratic Unionist Party</text>
+	<path d="M900.0 992 924.0 992 924.0 1016 900.0 1016Z" fill="#00623f" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="936.0" y="1004.0">Sinn Fein</text>
+	<path d="M100.0 1040 124.0 1040 124.0 1064 100.0 1064Z" fill="#4b6b3f" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="1052.0">Plaid Cymru</text>
+	<path d="M500.0 1040 524.0 1040 524.0 1064 500.0 1064Z" fill="#65a966" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="536.0" y="1052.0">Social Democratic &amp; Labour Party</text>
+	<path d="M900.0 1040 924.0 1040 924.0 1064 900.0 1064Z" fill="#6ab1e6" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="936.0" y="1052.0">Ulster Unionist Party</text>
+	<path d="M100.0 1088 124.0 1088 124.0 1112 100.0 1112Z" fill="#78c31e" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="1100.0">Green Party</text>
+	<path d="M500.0 1088 524.0 1088 524.0 1112 500.0 1112Z" fill="#712f87" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="536.0" y="1100.0">UK Independence Party</text>
+	<path d="M900.0 1088 924.0 1088 924.0 1112 900.0 1112Z" fill="#000000" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="936.0" y="1100.0">Speaker</text>
+	<path d="M100.0 1136 124.0 1136 124.0 1160 100.0 1160Z" fill="#505050" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="1148.0">Alliance Party</text>
+	<path d="M500.0 1136 524.0 1136 524.0 1160 500.0 1160Z" fill="#505050" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="536.0" y="1148.0">Other</text>
+</svg>

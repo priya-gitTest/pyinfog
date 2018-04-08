@@ -1,0 +1,21 @@
+{
+  "parties": {
+    "CON":{"name":"Conservative","colour":"#0575c9"},
+    "LAB":{"name":"Labour","colour":"#ed1e0e"},
+    "SNP":{"name":"Scottish National Party","colour":"#ebc31c"},
+    "LD":{"name":"Liberal Democrats","colour":"#ff8400"},
+    "DUP":{"name":"Democratic Unionist Party","colour":"#c0153d"},
+    "SF":{"name":"Sinn Fein","colour":"#00623f"},
+    "PC":{"name":"Plaid Cymru","colour":"#4b6b3f"},
+    "SDLP":{"name":"Social Democratic & Labour Party","colour":"#65a966"},
+    "UUP":{"name":"Ulster Unionist Party","colour":"#6ab1e6"},
+    "GREEN":{"name":"Green Party","colour":"#78c31e"},
+    "UKIP":{"name":"UK Independence Party","colour":"#712f87"},
+    "SPK":{"name":"Speaker","colour":"#000000"},
+    "ALLIANCE":{"name":"Alliance Party","colour":"#505050"},
+    "OTHER": {"name":"Other","colour":"#505050"}
+  },
+  "aliases": {
+    "DU":"DUP"
+  }
+}
