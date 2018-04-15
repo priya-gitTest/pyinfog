@@ -23,8 +23,8 @@ class DiagramElement(object):
     def getWidth(self):
         return 0
 
-    def build(self,width):
+    def draw(self, d, ox, oy):
         pass
 
-    def draw(self, d, ox, oy):
+    def build(self):
         pass

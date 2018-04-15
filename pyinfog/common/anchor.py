@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Copyright 2017-2018 Niall McCarroll
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,17 +13,21 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+from pyinfog.svg.pysvg import anchor
 from pyinfog.common.diagram_element import DiagramElement
 
-class Space(DiagramElement):
+class Anchor(DiagramElement):
 
-    def __init__(self, width,height):
+    def __init__(self,name):
         DiagramElement.__init__(self)
-        self.height = height
-        self.width = width
+        self.name = name
 
     def getHeight(self):
-        return self.height
+        return 0
 
-    def getHeight(self):
-        return self.width
+    def getWidth(self):
+        return 0
+
+    def draw(self,d,ox,oy):
+        t = anchor(ox,oy,self.name)
+        d.add(t)

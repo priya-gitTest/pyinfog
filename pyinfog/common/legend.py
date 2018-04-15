@@ -20,7 +20,7 @@ class Legend(DiagramElement):
     Manage a diagram legend associating category values with colours
     """
 
-    def __init__(self,palette,labels,legend_columns=1,legend_font_height=24,legend_text_style={}):
+    def __init__(self,palette,labels,width,legend_columns=1,legend_font_height=24,legend_text_style={}):
         """
         Create a Legend
 
@@ -37,20 +37,17 @@ class Legend(DiagramElement):
         self.legend_columns = legend_columns
         self.legend_font_height = legend_font_height
         self.legend_text_style = legend_text_style
-
-    def build(self,w):
-        self.width = w
+        self.width = width
 
     def getHeight(self):
         return (self.legend_font_height*len(self.palette)*2) // self.legend_columns
 
     def getWidth(self):
-        return 0
+        return self.width
 
     def draw(self,d,ox,oy):
-
         legend_column_width = self.width / self.legend_columns
-        legend_y = oy + self.legend_gap + self.legend_font_height
+        legend_y = oy
         legend_x = ox - (self.width/2)
         col = 0
         for (category, colour) in self.palette:

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg height="1016" version="1.1" width="1224" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg height="916" version="1.1" width="1224" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
 		<linearGradient id="lg_0">
 			<stop offset="0%" stop-color="green"/>
@@ -19,8 +19,8 @@
 		</linearGradient>
 	</defs>
 	<script id="script_0" type="text/ecmascript">function bringToFront(evt) { var p = evt.target.parentNode.parentNode; var c = evt.target.parentNode; p.removeChild(c); p.appendChild(c); }</script>
-	<text style="text-anchor:middle;stroke:purple;font-size:32;" x="612.0" y="132">Election Results</text>
-	<text style="text-anchor:middle;font-weight:bold;font-size:28;" x="612.0" y="192">Seats changing party, 2009 election - 2011 election</text>
+	<text style="text-anchor:middle;font-size:32;stroke:purple;" x="612.0" y="132.0">Election Results</text>
+	<text style="text-anchor:middle;font-size:28;font-weight:bold;" x="612.0" y="192.0">Seats changing party, 2009 election - 2011 election</text>
 	<text style="text-anchor:start;font-size:16;" x="100.0" y="220">2009</text>
 	<text style="text-anchor:end;font-size:16;" x="1124.0" y="220">2011</text>
 	<g>
@@ -41,10 +41,10 @@
 			<path d="M100.0 620.0 C 200.0 620.0 1024.0 364.0 1124.0 364.0 L 1124.0 492.0 C 1024.0 492.0 200.0 748.0 100.0 748.0Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_3);"/>
 		</g>
 	</g>
-	<path d="M100.0 812 124.0 812 124.0 836 100.0 836Z" fill="green" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="824.0">The A Party</text>
-	<path d="M441.3333333333333 812 465.3333333333333 812 465.3333333333333 836 441.3333333333333 836Z" fill="blue" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="477.3333333333333" y="824.0">The B Party</text>
-	<path d="M782.6666666666666 812 806.6666666666666 812 806.6666666666666 836 782.6666666666666 836Z" fill="red" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="818.6666666666666" y="824.0">C Party</text>
+	<path d="M100.0 768 124.0 768 124.0 792 100.0 792Z" fill="green" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="780.0">The A Party</text>
+	<path d="M441.3333333333333 768 465.3333333333333 768 465.3333333333333 792 441.3333333333333 792Z" fill="blue" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="477.3333333333333" y="780.0">The B Party</text>
+	<path d="M782.6666666666666 768 806.6666666666666 768 806.6666666666666 792 782.6666666666666 792Z" fill="red" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="818.6666666666666" y="780.0">C Party</text>
 </svg>

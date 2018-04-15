@@ -13,25 +13,28 @@
 # limitations under the License.
 
 from pyinfog.common.legend import Legend
-from pyinfog.common.space import VerticalSpace
-from pyinfog.common.textinsert import TextInsert
-from pyinfog.infogs.cosmograph.section import Section as CosmoSection
-from pyinfog.infogs.hemicycle.section import Section as HemiSection
-from pyinfog.infogs.somplot.section import Section as SOMPlotSection
-from pyinfog.svg.pysvg import svgdoc,javascript_snippet
+from pyinfog.common.anchor import Anchor
+from pyinfog.common.space import Space
+from pyinfog.common.textinsert import TextInsert, Button
+from pyinfog.common.image import Image
+from pyinfog.common.diagram_element import DiagramElement
+from pyinfog.common.embedded_svg import EmbeddedSvg
+from pyinfog.common.grid import Grid
 
+from pyinfog.svg.pysvg import svgdoc,javascript_snippet, rectangle
 
-class Narrative:
+class Narrative(DiagramElement):
     """
     Represent a diagram-narrative contining one or more infographics or other elements
     """
 
-    def __init__(self,hmargin=100,vmargin=50,min_width=0):
+    def __init__(self,hmargin=100,vmargin=50,min_width=0,min_height=0,debug=False):
         """
 
         :param hmargin: horizontal margin for the diagram (pixels)
         :param vmargin: vertical margin for the diagram (pixels)
         :param min_width: minimum width for the diagram (pixels)
+        :param min_height: minimum height for the diagram (pixels)
 
         :Example:
 
@@ -41,29 +44,68 @@ class Narrative:
           n.addText("Here is some text")
 
         """
+        DiagramElement.__init__(self)
         self.hmargin = hmargin
         self.vmargin = vmargin
         self.min_width = min_width
-        self.elements = []
+        self.min_height = min_height
+        self.grid = Grid()
+        self.debug = debug
+
+        self.row = 0
+        self.col = 0
+
+        self.grid.setColumnWidth(0,min_width)
+
+    def setColumnWidth(self,col,width):
+        self.grid.setColumnWidth(col,width)
+
+    def __setPosition(self,row,col):
+        self.row = row
+        self.col = col
+        return self
+
+    def __call__(self,row,col):
+        return self.__setPosition(row,col)
 
     def getWidth(self):
-        return 2*self.hmargin+max([self.min_width]+[e.getWidth() for e in self.elements])
+        return self.grid.getWidth()
 
     def getHeight(self):
-        return 2*self.vmargin+sum([e.getHeight() for e in self.elements])
+        return self.grid.getHeight()
 
-    def addVerticalSpace(self,pixels):
-        """
-        Add vertical whitespace to the diagram
+    def build(self):
+        self.grid.build()
 
-        :param pixels: height of the whitespace in pixels
-        :return: VerticalSpace object
+    def addNarrative(self,hmargin=100,vmargin=50,min_width=0,debug=False):
+        n = Narrative(hmargin,vmargin,min_width,debug)
+        self.add(n)
+        return n
+
+    def add(self,element):
+        self.grid.addCell(self.row,self.col,element)
+        self.row += 1
+        return self
+
+    def addSpace(self,width,height):
         """
-        e = VerticalSpace(pixels)
-        self.elements.append(e)
+        Add whitespace to the diagram
+
+        :param width: width of the whitespace in pixels
+        :param height: height of the whitespace in pixels
+
+        :return: Space object
+        """
+        e = Space(width,height)
+        self.add(e)
         return e
 
-    def addText(self,text,font_size,font_style={},url=None):
+    def addAnchor(self,name):
+        e = Anchor(name)
+        self.add(e)
+        return e
+
+    def addText(self,text,font_size=18,font_style={},url=None):
         """
         Add text to the diagram
 
@@ -74,67 +116,63 @@ class Narrative:
         :return: TextInsert object
         """
         e = TextInsert(text,font_size,font_style,url)
-        self.elements.append(e)
+        self.add(e)
         return e
 
-    def addInfographic(self,type,palette,labels):
+    def addButton(self,text,font_size=18,font_style={},url=None,fill="grey",stroke="darkgrey", stroke_width=10, r=3):
         """
-        Add an infographic section to the diagram.
+        Add button to the diagram
 
-        :param type: the type of the infographic (ie "somplot"|"hemicycle"|"cosmograph")
-        :param palette: a list of (category, colour) pairs
-        :param labels: a dict mapping category values to a descriptive label for that category
-        :return: a HemiSection object
+        :param text: the text to add
+        :param font_size: font size in pixeks
+        :param font_style: (optional) a dict containing style name/value pairs
+        :param url: (optional) url to link to from the text
+        :param fill: (optional) the background colour
+        :param stroke: (optional) the stroke colour
+        :param stroke_width: (optional) the stroke width
+        :param r the button corner radius
+        :return: Button object
         """
-        e = None
-        if type == "hemicycle":
-            e = HemiSection(palette,labels)
-        if type == "somplot":
-            e = SOMPlotSection(palette,labels)
-        if type == "cosmograph":
-            e = CosmoSection(palette,labels)
-        self.elements.append(e)
+        b = Button(text,font_size,font_style,url,fill,stroke,stroke_width,r)
+        self.add(b)
+        return b
+
+    def addEmbeddedSvg(self,width,height,content):
+        """
+        Add an embedded SVG to the diagram
+
+        :param width: width of the embedded SVG
+        :param height: height of the embedded SVG
+        :param content: the SVG content as a string
+        """
+        e = EmbeddedSvg(width,height,content)
+        self.add(e)
         return e
 
-    def addCosmographSection(self,palette,labels):
-        """
-        Add a cosmograph section to the diagram.
 
-        :param palette: a list of (category, colour) pairs
-        :param labels: a dict mapping category values to a descriptive label for that category
-        :return: a CosmoSection object
-        """
-        e = CosmoSection(palette,labels)
-        self.elements.append(e)
-        return e
+    def addImage(self,mimeType,content_bytes,width,height,tooltip=""):
+        i=Image(mimeType,content_bytes,width,height,tooltip)
+        self.add(i)
+        return i
 
-    def addSomplotSection(self,palette,labels):
-        """
-        Add a Self Organising Map to the diagram.
-
-        :param palette: a list of (category, colour) pairs
-        :param labels: a dict mapping category values to a descriptive label for that category
-        :return: a SOMPlot object
-        """
-        e = SOMPlotSection(palette,labels)
-        self.elements.append(e)
-        return e
-
-    def addLegend(self,palette,labels,legend_columns=1,legend_font_size=24,legend_text_style={}):
+    def addLegend(self,palette,labels,width,legend_columns=1,legend_font_size=24,legend_text_style={}):
         """
         Add a legend section to the diagram
 
         :param palette: a list of (category, colour) pairs
         :param labels: dict associating each category with a longer string label
+        :param width: width of the legend area
         :param legend_columns: the number of columns to split the legend into (optional, defaults to 1)
         :param legend_font_size: the font size for the legend (optional, defaults to 24)
         :param legend_text_style: a dict containing style name/value pairs
         :return: a Legend object
         """
-        e = Legend(palette,labels,legend_columns,legend_font_size,legend_text_style)
-        self.elements.append(e)
+        e = Legend(palette,labels,width,legend_columns,legend_font_size,legend_text_style)
+        self.add(e)
         return e
 
+    def build(self):
+        self.grid.build()
 
     def draw(self,doc,ox,oy):
         """
@@ -147,17 +185,6 @@ class Narrative:
         :param oy: the y-coordinate to start drawing the narrative
         :return:
         """
-        for e in self.elements:
-            e.build(self.getWidth())
-
-        w = self.getWidth()
-
-        off_y = oy
-        off_x = ox
-
-        for e in self.elements:
-            e.draw(doc, off_x, off_y)
-            off_y += e.getHeight()
-
+        self.grid.draw(doc,ox,oy)
 
 

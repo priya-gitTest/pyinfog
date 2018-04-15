@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Copyright 2017-2018 Niall McCarroll
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -19,7 +20,7 @@ from math import radians,sin,cos,pi
 class HexGrid(object):
 
     def __init__(self,width,height,max_distance,plot):
-        self.gx =width 
+        self.gx =width
         self.gy =height
         self.max_distance = max_distance
         self.distances = {}
@@ -29,7 +30,7 @@ class HexGrid(object):
             for xc in range(0,self.gx):
                 for yc in range(0,self.gy):
                     self.genDistance(xc,yc,xc,yc,0,d)
-        
+
     def position(self,xc,yc,xd,yd):
         pos = str(xc) + "."
         pos += str(yc) + "."
@@ -39,7 +40,7 @@ class HexGrid(object):
 
     def putDistance(self,xc,yc,xd,yd,d):
         self.distances[self.position(xc,yc,xd,yd)] = d
-    
+
     def getDistance(self,xc,yc,xd,yd):
         key = self.position(xc,yc,xd,yd)
         if key in self.distances:
@@ -59,7 +60,7 @@ class HexGrid(object):
         else:
             n_list.append(((x+1) % self.gx,(y+1) % self.gy))
             n_list.append(((x+1) % self.gx,(y-1) % self.gy))
-        return n_list 
+        return n_list
 
     def genDistance(self,xc,yc,xd,yd,r,d):
         if r == d:
@@ -96,13 +97,13 @@ class HexGrid(object):
         x -= off_lg
         points.append((x,y))
         return polygon(points,rgbfill,rgbstroke,4,id)
-    
+
     def hexacenter(self,origin,x,y,dlength):
         (ox,oy) = origin
         rangle = radians(30)
         off_sm = dlength*sin(rangle)
         off_lg = dlength*cos(rangle)
-        yc = oy + (float(y)*(dlength+off_sm))+(0.5*float(dlength))+off_sm  
+        yc = oy + (float(y)*(dlength+off_sm))+(0.5*float(dlength))+off_sm
         xc = ox + ((float(x)+0.5)*(2*off_lg))
         if y % 2 == 1:
             xc += off_lg
@@ -196,5 +197,5 @@ function toggleVisibility(cls) {
             diagram.add(label)
         return (ox+off_lg+self.gx*(2*off_lg)+10,oy+off_sm+(self.gy)*(dlength+off_sm)+10)
 
-            
+
 

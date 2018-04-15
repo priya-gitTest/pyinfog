@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="920" version="1.1" width="800" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs/>
+	<script id="script_0" type="text/ecmascript">function bringToFront(evt) { var p = evt.target.parentNode.parentNode; var c = evt.target.parentNode; p.removeChild(c); p.appendChild(c); }</script>
+	<text style="stroke:purple;text-anchor:middle;font-size:50;" x="400.0" y="150.0">WordCloud Example - Brave New World</text>
+	<rect fill="#FFF" height="37.86676633343822" width="227.20059800062933" x="286.40032921486693" y="501.0866069644882"/>
+	<text dominant-baseline="hanging" fill="green" font-size="30.293413066750578" style="text-anchor:start;" textLength="181.76047840050347" x="309.12038901492986" y="504.873283597832">savage</text>
+	<rect fill="#FFF" height="32.45722828580419" width="227.20059800062933" x="279.6764594323496" y="539.0158524132434"/>
+	<text dominant-baseline="hanging" fill="red" font-size="25.965782628643353" style="text-anchor:start;" textLength="181.76047840050347" x="302.3965192324125" y="542.2615752418237">bernard</text>
+	<rect fill="#FFF" height="30.817538357095646" width="184.90523014257388" x="322.5357463212696" y="469.95517124813875"/>
+	<text dominant-baseline="hanging" fill="green" font-size="24.654030685676517" style="text-anchor:start;" textLength="147.9241841140591" x="341.026269335527" y="473.0369250838483">lenina</text>
+	<rect fill="#FFF" height="28.62458476356305" width="171.7475085813783" x="326.47092671421905" y="440.97462354021263"/>
+	<text dominant-baseline="hanging" fill="green" font-size="22.899667810850442" style="text-anchor:start;" textLength="137.39800686510264" x="343.6456775723569" y="443.83708201656896">little</text>
+	<rect fill="#FFF" height="25.891911120126185" width="155.35146672075712" x="301.37291442099917" y="571.5356762447481"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="20.71352889610095" style="text-anchor:start;" textLength="124.2811733766057" x="316.9080610930749" y="574.1248673567607">though</text>
+	<rect fill="#FFF" height="21.468438572672287" width="171.7475085813783" x="319.77488084616834" y="419.4832962242566"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="17.17475085813783" style="text-anchor:start;" textLength="137.39800686510264" x="336.94963170430617" y="421.63014008152385">suddenly</text>
+	<rect fill="#FFF" height="21.468438572672287" width="171.7475085813783" x="288.5092823527877" y="597.4399469325205"/>
+	<text dominant-baseline="hanging" fill="green" font-size="17.17475085813783" style="text-anchor:start;" textLength="137.39800686510264" x="305.6840332109255" y="599.5867907897876">director</text>
+	<rect fill="#FFF" height="22.06426078866092" width="154.44982552062643" x="305.2700706016849" y="619.4901949182655"/>
+	<text dominant-baseline="hanging" fill="green" font-size="17.65140863092874" style="text-anchor:start;" textLength="123.55986041650115" x="320.71505315374753" y="621.6966209971316">through</text>
+	<rect fill="#FFF" height="21.882658846227237" width="153.17861192359067" x="344.74967814323" y="397.1957984639039"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="17.50612707698179" style="text-anchor:start;" textLength="122.54288953887254" x="360.0675393355891" y="399.38406434852664">himself</text>
+	<rect fill="#FFF" height="22.423052782558077" width="134.53831669534847" x="307.269468626417" y="642.2616652377351"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="17.93844222604646" style="text-anchor:start;" textLength="107.63065335627878" x="320.72330029595184" y="644.5039705159909">looked</text>
+	<rect fill="#FFF" height="20.174814607656547" width="141.22370225359583" x="341.9930163590842" y="376.5670231572352"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="16.139851686125237" style="text-anchor:start;" textLength="112.97896180287667" x="356.1153865844438" y="378.5845046180009">another</text>
+	<rect fill="#FFF" height="21.791290351778866" width="130.7477421106732" x="459.99074689796475" y="572.9808181374686"/>
+	<text dominant-baseline="hanging" fill="red" font-size="17.433032281423092" style="text-anchor:start;" textLength="104.59819368853856" x="473.0655211090321" y="575.1599471726465">almost</text>
+	<rect fill="#FFF" height="21.576592600105155" width="129.45955560063092" x="193.04347081955672" y="472.6940806686588"/>
+	<text dominant-baseline="hanging" fill="green" font-size="17.261274080084124" style="text-anchor:start;" textLength="103.56764448050474" x="205.9894263796198" y="474.8517399286693">course</text>
+	<rect fill="#FFF" height="17.617214086056332" width="158.55492677450698" x="340.01382792297045" y="358.48509813064817"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="14.093771268845067" style="text-anchor:start;" textLength="126.84394141960558" x="355.86932060042113" y="360.2468195392538">helmholtz</text>
+	<rect fill="#FFF" height="17.0805227737533" width="153.72470496377971" x="298.74951441833656" y="665.440350911905"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="13.664418219002641" style="text-anchor:start;" textLength="122.97976397102377" x="314.1219849147145" y="667.1484031892804">something</text>
+	<rect fill="#FFF" height="20.469353028560068" width="122.81611817136042" x="202.21640756664212" y="445.59186866103056"/>
+	<text dominant-baseline="hanging" fill="green" font-size="16.375482422848055" style="text-anchor:start;" textLength="98.25289453708834" x="214.49801938377817" y="447.6388039638866">rather</text>
+	<rect fill="#FFF" height="20.24063799496456" width="121.44382796978735" x="462.73407935672043" y="599.5757105023531"/>
+	<text dominant-baseline="hanging" fill="green" font-size="16.19251039597165" style="text-anchor:start;" textLength="97.15506237582989" x="474.87846215369916" y="601.5997743018496">really</text>
+	<rect fill="#FFF" height="20.24063799496456" width="121.44382796978735" x="220.80610468657937" y="398.62708534698635"/>
+	<text dominant-baseline="hanging" fill="green" font-size="16.19251039597165" style="text-anchor:start;" textLength="97.15506237582989" x="232.9504874835581" y="400.6511491464828">people</text>
+	<rect fill="#FFF" height="18.308345930920602" width="128.1584215164442" x="462.344508917296" y="622.3033288161874"/>
+	<text dominant-baseline="hanging" fill="red" font-size="14.646676744736482" style="text-anchor:start;" textLength="102.52673721315537" x="475.16035106894043" y="624.1341634092795">towards</text>
+	<rect fill="#FFF" height="18.08907639313252" width="126.62353475192764" x="192.61211541637348" y="419.52197750821597"/>
+	<text dominant-baseline="hanging" fill="green" font-size="14.471261114506015" style="text-anchor:start;" textLength="101.29882780154212" x="205.27446889156624" y="421.3308851475292">without</text>
+	<rect fill="#FFF" height="19.298691110661625" width="115.79214666396976" x="445.3297326442449" y="643.4285616289865"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="15.4389528885293" style="text-anchor:start;" textLength="92.63371733117582" x="456.9089473106419" y="645.3584307400527">turned</text>
+	<rect fill="#FFF" height="17.867116129552397" width="125.06981290686677" x="326.6676358083072" y="682.6871181557494"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="14.293692903641919" style="text-anchor:start;" textLength="100.05585032549342" x="339.17461709899385" y="684.4738297687047">hundred</text>
+	<rect fill="#FFF" height="19.055930615430768" width="114.3355836925846" x="507.6255125746858" y="547.3077024344999"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="15.244744492344616" style="text-anchor:start;" textLength="91.4684669540677" x="519.0590709439442" y="549.213295496043">didn't</text>
+	<rect fill="#FFF" height="18.560886770056953" width="111.36532062034172" x="188.82152018987972" y="572.2847068059615"/>
+	<text dominant-baseline="hanging" fill="red" font-size="14.848709416045564" style="text-anchor:start;" textLength="89.09225649627338" x="199.9580522519139" y="574.1407954829672">moment</text>
+	<rect fill="#FFF" height="17.18404204132116" width="120.28829428924811" x="509.90942170152596" y="478.9685257982562"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="13.74723363305693" style="text-anchor:start;" textLength="96.2306354313985" x="521.9382511304508" y="480.68693000238835">between</text>
+	<rect fill="#FFF" height="18.560886770056953" width="111.36532062034172" x="501.67271216155575" y="448.41815731861385"/>
+	<text dominant-baseline="hanging" fill="red" font-size="14.848709416045564" style="text-anchor:start;" textLength="89.09225649627338" x="512.8092442235899" y="450.27424599561954">across</text>
+	<rect fill="#FFF" height="18.560886770056953" width="111.36532062034172" x="174.13597746057914" y="494.63268153629934"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="14.848709416045564" style="text-anchor:start;" textLength="89.09225649627338" x="185.27250952261332" y="496.48877021330503">foster</text>
+	<rect fill="#FFF" height="18.560886770056953" width="111.36532062034172" x="173.38172773608187" y="516.0914246325185"/>
+	<text dominant-baseline="hanging" fill="red" font-size="14.848709416045564" style="text-anchor:start;" textLength="89.09225649627338" x="184.51825979811605" y="517.9475133095242">_soma_</text>
+	<rect fill="#FFF" height="15.8554926774507" width="126.8439414196056" x="347.2499059893962" y="342.44763089760545"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="12.68439414196056" style="text-anchor:start;" textLength="101.47515313568448" x="359.9343001313568" y="344.03318016535053">repeated</text>
+	<rect fill="#FFF" height="16.9502346564353" width="118.6516425950471" x="513.6741787024764" y="511.5248826717863"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="13.56018772514824" style="text-anchor:start;" textLength="94.92131407603767" x="525.5393429619811" y="513.2199061374298">because</text>
+	<rect fill="#FFF" height="15.8554926774507" width="126.8439414196056" x="214.40006182404636" y="381.9659330390997"/>
+	<text dominant-baseline="hanging" fill="green" font-size="12.68439414196056" style="text-anchor:start;" textLength="101.47515313568448" x="227.0844559660069" y="383.5514823068448">thousand</text>
+	<rect fill="#FFF" height="18.052272537318917" width="108.31363522391351" x="495.0442053489078" y="422.73662472517265"/>
+	<text dominant-baseline="hanging" fill="red" font-size="14.441818029855135" style="text-anchor:start;" textLength="86.65090817913081" x="505.87556887129915" y="424.54185197890456">reason</text>
+	<rect fill="#FFF" height="16.71315676162189" width="116.99209733135322" x="521.6409332096041" y="528.6713798310461"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="13.370525409297512" style="text-anchor:start;" textLength="93.59367786508258" x="533.3401429427395" y="530.3426955072083">thought</text>
+	<rect fill="#FFF" height="18.052272537318917" width="108.31363522391351" x="168.94820058745398" y="538.9912764200451"/>
+	<text dominant-baseline="hanging" fill="green" font-size="14.441818029855135" style="text-anchor:start;" textLength="86.65090817913081" x="179.77956410984532" y="540.796503673777">before</text>
+	<rect fill="#FFF" height="18.052272537318917" width="108.31363522391351" x="231.5850494460579" y="363.6731663242624"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="14.441818029855135" style="text-anchor:start;" textLength="86.65090817913081" x="242.41641296844924" y="365.4783935779943">things</text>
+	<rect fill="#FFF" height="17.792514066230787" width="106.75508439738472" x="179.73693582082603" y="596.1361635681012"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="14.23401125298463" style="text-anchor:start;" textLength="85.40406751790778" x="190.4124442605645" y="597.9154149747243">should</text>
+	<rect fill="#FFF" height="16.472667148002312" width="115.30867003601618" x="348.1874379553466" y="325.8754363291803"/>
+	<text dominant-baseline="hanging" fill="red" font-size="13.17813371840185" style="text-anchor:start;" textLength="92.24693602881295" x="359.7183049589482" y="327.5227030439805">against</text>
+	<rect fill="#FFF" height="17.528906692443833" width="105.173440154663" x="199.0395631543044" y="619.0353619242194"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="14.023125353955066" style="text-anchor:start;" textLength="84.1387521237304" x="209.5569071697707" y="620.7882525934638">seemed</text>
+	<rect fill="#FFF" height="17.261274080084124" width="103.56764448050475" x="498.20792851686275" y="402.39397718493325"/>
+	<text dominant-baseline="hanging" fill="red" font-size="13.8090192640673" style="text-anchor:start;" textLength="82.85411558440381" x="508.5646929649132" y="404.1201045929417">walked</text>
+	<rect fill="#FFF" height="17.261274080084124" width="103.56764448050475" x="454.1014444795316" y="667.1748015418001"/>
+	<text dominant-baseline="hanging" fill="red" font-size="13.8090192640673" style="text-anchor:start;" textLength="82.85411558440381" x="464.45820892758206" y="668.9009289498085">called</text>
+	<rect fill="#FFF" height="15.72915207695114" width="110.10406453865798" x="308.9932410879635" y="700.6167016313456"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="12.583321661560912" style="text-anchor:start;" textLength="88.08325163092638" x="320.0036475418293" y="702.1896168390407">stepped</text>
+	<rect fill="#FFF" height="16.9894260027573" width="101.93655601654379" x="490.0725720252275" y="379.05911294354365"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="13.59154080220584" style="text-anchor:start;" textLength="81.54924481323503" x="500.26622762688186" y="380.7580555438194">always</text>
+	<rect fill="#FFF" height="16.71315676162189" width="100.27894056973133" x="203.2438200451677" y="640.9034388153535"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="13.370525409297512" style="text-anchor:start;" textLength="80.22315245578507" x="213.27171410214083" y="642.5747544915157">having</text>
+	<rect fill="#FFF" height="12.506981290686678" width="125.06981290686679" x="513.7392949991884" y="497.08369139848503"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="10.005585032549343" style="text-anchor:start;" textLength="100.05585032549344" x="526.246276289875" y="498.3343895275537">controller</text>
+	<rect fill="#FFF" height="15.8554926774507" width="95.1329560647042" x="251.47024756772458" y="341.3526800253093"/>
+	<text dominant-baseline="hanging" fill="red" font-size="12.68439414196056" style="text-anchor:start;" textLength="76.10636485176336" x="260.983543174195" y="342.9382292930544">you're</text>
+	<rect fill="#FFF" height="13.731259448190452" width="109.85007558552361" x="364.07919499878454" y="312.0905871439593"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="10.985007558552361" style="text-anchor:start;" textLength="87.88006046841889" x="375.0642025573369" y="313.4637130887783">mustapha</text>
+	<rect fill="#FFF" height="14.948701855038719" width="89.69221113023231" x="181.6225352870764" y="557.0809292569286"/>
+	<text dominant-baseline="hanging" fill="red" font-size="11.958961484030976" style="text-anchor:start;" textLength="71.75376890418585" x="190.59175640009963" y="558.5757994424324">better</text>
+	<rect fill="#FFF" height="12.945955560063092" width="103.56764448050474" x="329.02372834156193" y="716.5619292811199"/>
+	<text dominant-baseline="hanging" fill="green" font-size="10.356764448050475" style="text-anchor:start;" textLength="82.8541155844038" x="339.3804927896124" y="717.8565248371262">anything</text>
+	<rect fill="#FFF" height="12.945955560063092" width="103.56764448050474" x="423.4019364000662" y="703.4245716977849"/>
+	<text dominant-baseline="hanging" fill="red" font-size="10.356764448050475" style="text-anchor:start;" textLength="82.8541155844038" x="433.75870084811663" y="704.7191672537913">couldn't</text>
+	<rect fill="#FFF" height="14.948701855038719" width="89.69221113023231" x="457.1352516663158" y="684.9667067624492"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="11.958961484030976" style="text-anchor:start;" textLength="71.75376890418585" x="466.10447277933906" y="686.4615769479531">of
+the</text>
+	<rect fill="#FFF" height="14.948701855038719" width="89.69221113023231" x="208.42923733867374" y="659.2503061686878"/>
+	<text dominant-baseline="hanging" fill="red" font-size="11.958961484030976" style="text-anchor:start;" textLength="71.75376890418585" x="217.39845845169697" y="660.7451763541916">opened</text>
+	<rect fill="#FFF" height="14.633957092537196" width="87.80374255522318" x="499.5244383565637" y="359.94951463639387"/>
+	<text dominant-baseline="hanging" fill="green" font-size="11.707165674029758" style="text-anchor:start;" textLength="70.24299404417854" x="508.304812612086" y="361.4129103456476">d.h.c.</text>
+	<rect fill="#FFF" height="13.548411615480026" width="94.83888130836019" x="475.78034822632685" y="343.6558321712743"/>
+	<text dominant-baseline="hanging" fill="red" font-size="10.838729292384022" style="text-anchor:start;" textLength="75.87110504668816" x="485.2642363571629" y="345.0106733328223">minutes</text>
+	<rect fill="#FFF" height="13.548411615480026" width="94.83888130836019" x="228.20519996072608" y="684.4137902019942"/>
+	<text dominant-baseline="hanging" fill="red" font-size="10.838729292384022" style="text-anchor:start;" textLength="75.87110504668816" x="237.6890880915621" y="685.7686313635422">started</text>
+	<rect fill="#FFF" height="14.633957092537196" width="87.80374255522318" x="258.80796462819944" y="321.7403233201662"/>
+	<text dominant-baseline="hanging" fill="red" font-size="11.707165674029758" style="text-anchor:start;" textLength="70.24299404417854" x="267.58833888372175" y="323.20371902942">slowly</text>
+	<rect fill="#FFF" height="14.633957092537196" width="87.80374255522318" x="383.41074698073123" y="296.48138574328163"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="11.707165674029758" style="text-anchor:start;" textLength="70.24299404417854" x="392.19112123625354" y="297.9447814525354">that's</text>
+	<rect fill="#FFF" height="13.2506079608749" width="92.7542557261243" x="464.4208266891626" y="326.0255864218836"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="10.60048636869992" style="text-anchor:start;" textLength="74.20340458089944" x="473.69625226177504" y="327.3506472179711">silence</text>
+	<rect fill="#FFF" height="13.2506079608749" width="92.7542557261243" x="319.22293327459414" y="730.5673621164339"/>
+	<text dominant-baseline="hanging" fill="green" font-size="10.60048636869992" style="text-anchor:start;" textLength="74.20340458089944" x="328.4983588472066" y="731.8924229125214">feeling</text>
+	<rect fill="#FFF" height="13.2506079608749" width="92.7542557261243" x="434.6986236202169" y="718.1486692715888"/>
+	<text dominant-baseline="hanging" fill="green" font-size="10.60048636869992" style="text-anchor:start;" textLength="74.20340458089944" x="443.97404919282934" y="719.4737300676763">looking</text>
+	<rect fill="#FFF" height="13.983230179646736" width="83.8993810778804" x="276.2383088724136" y="306.374858686373"/>
+	<text dominant-baseline="hanging" fill="red" font-size="11.18658414371739" style="text-anchor:start;" textLength="67.11950486230432" x="284.62824698020165" y="307.7731817043377">enough</text>
+	<rect fill="#FFF" height="11.142104507747927" width="100.27894056973135" x="512.3230154579596" y="467.22923242640945"/>
+	<text dominant-baseline="hanging" fill="green" font-size="8.913683606198342" style="text-anchor:start;" textLength="80.22315245578508" x="522.3509095149327" y="468.34344287718426">bernard's</text>
+	<rect fill="#FFF" height="12.633958975454041" width="88.43771282817829" x="412.52222824143917" y="734.6749545553827"/>
+	<text dominant-baseline="hanging" fill="red" font-size="10.107167180363234" style="text-anchor:start;" textLength="70.75017026254264" x="421.365999524257" y="735.938350452928">nothing</text>
+	<rect fill="#FFF" height="13.64623535237338" width="81.87741211424027" x="294.84312115476763" y="292.1364817546952"/>
+	<text dominant-baseline="hanging" fill="red" font-size="10.916988281898703" style="text-anchor:start;" textLength="65.50192969139222" x="303.0308623661917" y="293.5011052899325">behind</text>
+	<rect fill="#FFF" height="13.64623535237338" width="81.87741211424027" x="222.93022951193714" y="700.5452182210468"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="10.916988281898703" style="text-anchor:start;" textLength="65.50192969139222" x="231.11797072336117" y="701.9098417562841">centre</text>
+	<rect fill="#FFF" height="9.649345555330813" width="115.79214666396976" x="385.9286685233356" y="285.43798502191106"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="7.71947644426465" style="text-anchor:start;" textLength="92.63371733117582" x="397.5078831897326" y="286.40291957744415">conditioning</text>
+	<rect fill="#FFF" height="12.633958975454041" width="88.43771282817829" x="474.72376079014737" y="312.5620384825344"/>
+	<text dominant-baseline="hanging" fill="red" font-size="10.107167180363234" style="text-anchor:start;" textLength="70.75017026254264" x="483.5675320729652" y="313.8254343800798">they're</text>
+	<rect fill="#FFF" height="11.817986481176638" width="94.5438918494131" x="232.76735403955396" y="716.9334728431569"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="9.454389184941311" style="text-anchor:start;" textLength="75.63511347953049" x="242.22174322449527" y="718.1152714912746">standing</text>
+	<rect fill="#FFF" height="12.633958975454041" width="88.43771282817829" x="304.3298786701246" y="743.8627479831464"/>
+	<text dominant-baseline="hanging" fill="red" font-size="10.107167180363234" style="text-anchor:start;" textLength="70.75017026254264" x="313.1736499529424" y="745.1261438806918">forward</text>
+	<rect fill="#FFF" height="11.518748380176122" width="92.14998704140898" x="398.91900773761853" y="750.1074404548849"/>
+	<text dominant-baseline="hanging" fill="red" font-size="9.214998704140898" style="text-anchor:start;" textLength="73.71998963312718" x="408.1340064417594" y="751.2593152929026">children</text>
+	<rect fill="#FFF" height="13.3007049560445" width="79.804229736267" x="563.276957124665" y="642.2910074657334"/>
+	<text dominant-baseline="hanging" fill="green" font-size="10.6405639648356" style="text-anchor:start;" textLength="63.84338378901361" x="571.2573800982917" y="643.6210779613378">saying</text>
+	<rect fill="#FFF" height="11.98562586826863" width="83.8993810778804" x="584.5955810098563" y="595.5685035025323"/>
+	<text dominant-baseline="hanging" fill="green" font-size="9.588500694614904" style="text-anchor:start;" textLength="67.11950486230432" x="592.9855191176443" y="596.7670660893591">chapter</text>
+	<rect fill="#FFF" height="10.570328451633799" width="95.13295606470419" x="382.75413783153886" y="274.70244723218644"/>
+	<text dominant-baseline="hanging" fill="red" font-size="8.45626276130704" style="text-anchor:start;" textLength="76.10636485176336" x="392.2674334380093" y="275.75948007734985">synthetic</text>
+	<rect fill="#FFF" height="12.945955560063092" width="77.67573336037856" x="592.4200587045289" y="580.7136603763469"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="10.356764448050475" style="text-anchor:start;" textLength="62.14058668830285" x="600.1876320405668" y="582.0082559323532">second</text>
+	<rect fill="#FFF" height="11.98562586826863" width="83.8993810778804" x="593.1096207416256" y="566.5491681886409"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="9.588500694614904" style="text-anchor:start;" textLength="67.11950486230432" x="601.4995588494136" y="567.7477307754677">herself</text>
+	<rect fill="#FFF" height="11.98562586826863" width="83.8993810778804" x="297.8275663852282" y="279.4550887669539"/>
+	<text dominant-baseline="hanging" fill="red" font-size="9.588500694614904" style="text-anchor:start;" textLength="67.11950486230432" x="306.21750449301624" y="280.6536513537808">epsilon</text>
+	<rect fill="#FFF" height="12.945955560063092" width="77.67573336037856" x="479.5193759731174" y="298.23599706679056"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="10.356764448050475" style="text-anchor:start;" textLength="62.14058668830285" x="487.28694930915526" y="299.53059262279686">making</text>
+	<rect fill="#FFF" height="12.945955560063092" width="77.67573336037856" x="141.350823802541" y="401.5275659342211"/>
+	<text dominant-baseline="hanging" fill="red" font-size="10.356764448050475" style="text-anchor:start;" textLength="62.14058668830285" x="149.11839713857884" y="402.8221614902274">lifted</text>
+	<rect fill="#FFF" height="12.581207350588823" width="75.48724410353293" x="125.23669044945211" y="444.84881153209733"/>
+	<text dominant-baseline="hanging" fill="red" font-size="10.064965880471059" style="text-anchor:start;" textLength="60.38979528282635" x="132.7854148598054" y="446.1069322671562">caught</text>
+	<rect fill="#FFF" height="11.647934644581301" width="81.53554251206911" x="118.31741689176584" y="460.3251921065607"/>
+	<text dominant-baseline="hanging" fill="green" font-size="9.318347715665041" style="text-anchor:start;" textLength="65.22843400965529" x="126.47097114297276" y="461.4899855710188">science</text>
+	<rect fill="#FFF" height="12.581207350588823" width="75.48724410353293" x="242.93562794672113" y="730.75303483797"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="10.064965880471059" style="text-anchor:start;" textLength="60.38979528282635" x="250.4843523570744" y="732.0111555730289">aren't</text>
+	<rect fill="#FFF" height="10.895645175889433" width="87.16516140711546" x="309.9693390369303" y="758.0415411226821"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="8.716516140711546" style="text-anchor:start;" textLength="69.73212912569237" x="318.6858551776418" y="759.1311056402711">remember</text>
+	<rect fill="#FFF" height="12.581207350588823" width="75.48724410353293" x="558.673110924583" y="666.065831721762"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="10.064965880471059" style="text-anchor:start;" textLength="60.38979528282635" x="566.2218353349364" y="667.323952456821">again.</text>
+	<rect fill="#FFF" height="11.300156437623533" width="79.10109506336474" x="112.63844781299689" y="475.1005145025986"/>
+	<text dominant-baseline="hanging" fill="red" font-size="9.040125150098827" style="text-anchor:start;" textLength="63.280876050691795" x="120.54855731933336" y="476.230530146361">machine</text>
+	<rect fill="#FFF" height="11.300156437623533" width="79.10109506336474" x="399.88658110495976" y="763.3461524452224"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="9.040125150098827" style="text-anchor:start;" textLength="63.280876050691795" x="407.79669061129624" y="764.4761680889848">there's</text>
+	<rect fill="#FFF" height="11.300156437623533" width="79.10109506336474" x="527.4042459879269" y="703.7229624200941"/>
+	<text dominant-baseline="hanging" fill="green" font-size="9.040125150098827" style="text-anchor:start;" textLength="63.280876050691795" x="535.3143554942633" y="704.8529780638564">touched</text>
+	<rect fill="#FFF" height="12.205563953947069" width="73.23338372368241" x="584.3235567253206" y="609.5066012144431"/>
+	<text dominant-baseline="hanging" fill="red" font-size="9.764451163157656" style="text-anchor:start;" textLength="58.58670697894593" x="591.6468950976888" y="610.7271576098378">bottle</text>
+	<rect fill="#FFF" height="10.570328451633799" width="84.56262761307039" x="397.4373968671791" y="263.9407660970776"/>
+	<text dominant-baseline="hanging" fill="green" font-size="8.45626276130704" style="text-anchor:start;" textLength="67.65010209045631" x="405.8936596284861" y="264.997798942241">lenina's</text>
+	<rect fill="#FFF" height="12.205563953947069" width="73.23338372368241" x="175.45048075295006" y="348.21214328483126"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="9.764451163157656" style="text-anchor:start;" textLength="58.58670697894593" x="182.7738191253183" y="349.43269968022594">social</text>
+	<rect fill="#FFF" height="12.205563953947069" width="73.23338372368241" x="547.462465934617" y="686.7590532121354"/>
+	<text dominant-baseline="hanging" fill="green" font-size="9.764451163157656" style="text-anchor:start;" textLength="58.58670697894593" x="554.7858043069851" y="687.9796096075302">london</text>
+	<rect fill="#FFF" height="12.205563953947069" width="73.23338372368241" x="604.1908180640926" y="435.6541150472927"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="9.764451163157656" style="text-anchor:start;" textLength="58.58670697894593" x="611.5141564364608" y="436.8746714426874">wanted</text>
+	<rect fill="#FFF" height="10.570328451633799" width="84.56262761307039" x="294.51166447165735" y="268.5397395417271"/>
+	<text dominant-baseline="hanging" fill="green" font-size="8.45626276130704" style="text-anchor:start;" textLength="67.65010209045631" x="302.96792723296437" y="269.5967723868905">actually</text>
+	<rect fill="#FFF" height="12.205563953947069" width="73.23338372368241" x="157.4075813703035" y="364.2470927893541"/>
+	<text dominant-baseline="hanging" fill="green" font-size="9.764451163157656" style="text-anchor:start;" textLength="58.58670697894593" x="164.73091974267174" y="365.4676491847488">within</text>
+	<rect fill="#FFF" height="10.234676514280034" width="81.87741211424027" x="591.3484948519609" y="624.1887214734357"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="8.187741211424028" style="text-anchor:start;" textLength="65.50192969139222" x="599.536236063385" y="625.2121891248637">silence.</text>
+	<rect fill="#FFF" height="9.649345555330813" width="86.84410999797731" x="307.88128896646856" y="770.4521379417052"/>
+	<text dominant-baseline="hanging" fill="red" font-size="7.71947644426465" style="text-anchor:start;" textLength="69.47528799838186" x="316.56569996626627" y="771.4170724972383">whispered</text>
+	<rect fill="#FFF" height="11.817986481176638" width="70.90791888705982" x="613.1825894609166" y="466.6610484114776"/>
+	<text dominant-baseline="hanging" fill="red" font-size="9.454389184941311" style="text-anchor:start;" textLength="56.72633510964786" x="620.2733813496226" y="467.8428470595953">deltas</text>
+	<rect fill="#FFF" height="9.154172965460301" width="91.54172965460302" x="149.2471218621949" y="674.4232613759225"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="7.323338372368241" style="text-anchor:start;" textLength="73.23338372368242" x="158.4012948276552" y="675.3386786724685">expression</text>
+	<rect fill="#FFF" height="10.941329423113618" width="76.58930596179533" x="135.02233502535574" y="389.90929487181137"/>
+	<text dominant-baseline="hanging" fill="red" font-size="8.753063538490895" style="text-anchor:start;" textLength="61.27144476943627" x="142.6812656215353" y="391.00342781412274">singing</text>
+	<rect fill="#FFF" height="11.817986481176638" width="70.90791888705982" x="117.40236116288874" y="577.5467183683967"/>
+	<text dominant-baseline="hanging" fill="yellow" font-size="9.454389184941311" style="text-anchor:start;" textLength="56.72633510964786" x="124.49315305159472" y="578.7285170165144">wasn't</text>
+	<rect fill="#FFF" height="10.234676514280034" width="81.87741211424027" x="375.5098984387847" y="253.43957996379035"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="8.187741211424028" style="text-anchor:start;" textLength="65.50192969139222" x="383.69763965020877" y="254.46304761521836">students</text>
+	<rect fill="#FFF" height="10.941329423113618" width="76.58930596179533" x="501.2132113598383" y="734.358553972145"/>
+	<text dominant-baseline="hanging" fill="blue" font-size="8.753063538490895" style="text-anchor:start;" textLength="61.27144476943627" x="508.8721419560178" y="735.4526869144564">shouted</text>
+</svg>

@@ -13,10 +13,10 @@
 # limitations under the License.
 
 from pyinfog.diagram import Diagram
+from pyinfog.infogs.hemicycle.hemicycle import HemiCycle
+
 import argparse
 import json
-
-
 
 
 
@@ -71,13 +71,13 @@ if __name__ == "__main__":
     p = d.addNarrative()
     p.addText("UK General Election "+args.year,font_size=32,font_style={"stroke":"purple"})
     p.addText("Results",font_size=28,font_style={"font-weight":"bold"})
-    p.addVerticalSpace(20)
-    p.addInfographic("hemicycle",palette,labels) \
-        .addContinuousPlot("Votes", 500, 600, votes) \
-        .addDiscretePlot("Parliamentary Seats", 150, 450, seats)
-    p.addVerticalSpace(20)
+    p.addSpace(20,20)
+    h = HemiCycle(palette,labels)
+    h.addContinuousPlot("Votes", 500, 600, votes)
+    h.addDiscretePlot("Parliamentary Seats", 150, 450, seats)
+    p.addSpace(20,20)
     p.addText("source: http://explore.data.parliament.uk/?learnmore=Election Results",font_size=20,url="http://explore.data.parliament.uk/?learnmore=Election%20Results")
-    p.addLegend(palette,labels,legend_columns=3)
+    p.addLegend(palette,labels,500,legend_columns=3)
 
     svg = d.draw()
 

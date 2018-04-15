@@ -5,7 +5,7 @@ PyInfoG Diagrams
 
 .. automodule:: pyinfog
 
-.. autoclass:: pyinfog.diagram.Diagram
+.. autoclass:: pyinfog.narrative.Narrative
   :members:
 
   .. automethod:: __init__

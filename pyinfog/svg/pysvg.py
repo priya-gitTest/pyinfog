@@ -25,22 +25,33 @@ class svgstyled(object):
         self.tooltip = tooltip
         self.content = ''
         self.handlers = {}
+        self.children = []
 
     # add a style
     def addStyle(self,name,value):
         self.style[name] = value
         return self
 
-    # add a style
+    # add multiple styles
     def addStyles(self, styles):
         if styles:
             for k in styles:
                 self.addStyle(k,styles[k])
         return self
 
+    def addChild(self,ele):
+        self.children.append(ele)
+
     # add an SVG attribute
     def addAttr(self,name,value):
         self.attrs[name] = value
+        return self
+
+    # add multiple SVG attributes
+    def addAttrs(self,attrs):
+        if attrs:
+            for name in attrs:
+                self.addAttr(k,attrs[k])
         return self
 
     # add a handler
@@ -48,8 +59,9 @@ class svgstyled(object):
         self.handlers[evt] = fname
 
     # set the XML content of the element
-    def setContent(self,content):
+    def setContent(self,content,raw=False):
         self.content = content
+        self.content_raw = raw
         return self
 
     # construct the style attribute
@@ -88,8 +100,18 @@ class svgstyled(object):
         if self.content != '':
             e.appendChild(doc.createTextNode(self.content))
 
+        for child in self.children:
+            e.appendChild(child)
+
         return e
 
+class anchor(svgstyled):
+
+    def __init__(self,ox,oy,name):
+        super(anchor, self).__init__("a")
+        self.addAttr("id",name)
+        self.addAttr("x",ox)
+        self.addAttr("y",oy)
 
 class group(svgstyled):
 
@@ -105,6 +127,21 @@ class group(svgstyled):
             t.render(svgdoc,g)
         parent.appendChild(g)
         return g
+
+class image(svgstyled):
+
+    def __init__(self,x,y,width,height,uri,tooltip=""):
+        svgstyled.__init__(self,"image",tooltip)
+        self.x = x
+        self.y = y
+        self.uri = uri
+        self.width = width
+        self.height = height
+        self.addAttr("x",self.x)
+        self.addAttr("y",self.y)
+        self.addAttr("href",self.uri)
+        self.addAttr("width",self.width)
+        self.addAttr("height",self.height)
 
 # represent a section of text as an SVG object
 class text(svgstyled):
@@ -134,10 +171,28 @@ class text(svgstyled):
         doc = svgdoc.doc
         p = doc.createElement("a")
         parent.appendChild(p)
-        p.setAttribute("href",self.url)
-        p.setAttribute("target","_new")
+
+        if self.url.find("#")==0:
+            p.setAttribute("onclick","var oldx = window.scrollX; var oldy = window.scrollY; history.pushState({'x':oldx,'y':oldy},''); var ele = document.getElementById('"+self.url[1:]+"');var xc = ele.getAttribute('x')-window.innerWidth/2; var yc = ele.getAttribute('y'); window.scrollTo(xc,yc);evt.stopPropagation();")
+        else:
+            p.setAttribute("href",self.url)
+            p.setAttribute("target","_new")
         t = super(text, self).render(svgdoc, p)
         return p
+
+class embedded_svg(svgstyled):
+
+    def __init__(self,width,height,x,y,content):
+        svgstyled.__init__(self,'svg',"")
+        self.addAttr("width",width)
+        self.addAttr("height",height)
+        edoc = parseString(content).documentElement
+        docw = edoc.getAttribute("width")
+        doch = edoc.getAttribute("height")
+        self.addAttr("viewBox","0 0 "+docw+" "+doch)
+        self.addAttr("x",x)
+        self.addAttr("y",y)
+        self.addChild(edoc)
 
 # represent a circle as an SVG object
 class circle(svgstyled):
@@ -145,6 +200,18 @@ class circle(svgstyled):
     def __init__(self,x,y,r,col,tooltip=""):
         svgstyled.__init__(self,'circle',tooltip)
         self.addAttr("cx",x).addAttr("cy",y).addAttr("r",r).addAttr("fill",col)
+
+class line(svgstyled):
+
+    def __init__(self,x1,y1,x2,y2,col,width,tooltip=""):
+        svgstyled.__init__(self,'line',tooltip)
+        self.addAttr("x1",x1)
+        self.addAttr("y1",y1)
+        self.addAttr("x2",x2)
+        self.addAttr("y2",y2)
+        self.addAttr("stroke",col)
+        self.addAttr("stroke-width",width)
+
 
 class sector(svgstyled):
 
@@ -191,6 +258,28 @@ class curvedtext(svgstyled):
         t.appendChild(tp)
         tp.appendChild(doc.createTextNode(self.text))
         return tp
+
+# represent a rectangle as an SVG object
+class rectangle(svgstyled):
+
+    def __init__(self,x,y,width,height,fill=None,stroke=None,stroke_width=None,rx=None, ry=None, tooltip=""):
+        svgstyled.__init__(self,"rect",tooltip)
+        self.addAttr("x",x)
+        self.addAttr("y",y)
+        self.addAttr("width",width)
+        self.addAttr("height",height)
+        if fill:
+            self.addAttr("fill",fill)
+        else:
+            self.addAttr("fill","none")
+        if stroke:
+            self.addAttr("stroke",stroke)
+        if stroke_width:
+            self.addAttr("stroke_width",stroke_width)
+        if rx:
+            self.addAttr("rx",rx)
+        if ry:
+            self.addAttr("ry",ry)
 
 # represent a polygon as an SVG object
 class polygon(svgstyled):

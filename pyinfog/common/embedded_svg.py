@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Copyright 2017-2018 Niall McCarroll
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,36 +13,23 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+from pyinfog.svg.pysvg import embedded_svg
 from pyinfog.common.diagram_element import DiagramElement
-from pyinfog.infogs.cosmograph.discreteplot import DiscretePlot
 
+class EmbeddedSvg(DiagramElement):
 
-class Section(DiagramElement):
-
-    def __init__(self, palette,labels):
+    def __init__(self,width,height,content):
         DiagramElement.__init__(self)
-        self.palette = palette
-        self.labels = labels
-        self.plots = []
+        self.width = width
+        self.height = height
+        self.content = content
 
     def getWidth(self):
-        return max([p.getWidth() for p in self.plots])
+        return self.width
 
     def getHeight(self):
-        return sum([p.getHeight() for p in self.plots])
-
-    def build(self,w):
-        for p in self.plots:
-            p.buildPalette(self.palette)
-
-    def addDiscretePlot(self, width, height, data, axis_labels=[], axis_label_height=16):
-        p = DiscretePlot(width, height, data, self.labels, axis_labels,axis_label_height)
-        self.plots.append(p)
-        return self
+        return self.height
 
     def draw(self,d,ox,oy):
-        py = oy
-        for p in self.plots:
-            p.draw(d,ox,py)
-            py += p.getHeight()
-
+        es = embedded_svg(self.width,self.height,ox-self.width/2,oy,self.content)
+        d.add(es)

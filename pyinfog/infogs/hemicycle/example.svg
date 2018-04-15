@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="744" version="1.1" width="900" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<path d="M145.0,576.0 A305,305,0,0,1,755.0,576.0 " id="ct0"/>
+		<path d="M295.0,576.0 A155,155,0,0,1,605.0,576.0 " id="ct1"/>
+	</defs>
+	<script id="script_0" type="text/ecmascript">function bringToFront(evt) { var p = evt.target.parentNode.parentNode; var c = evt.target.parentNode; p.removeChild(c); p.appendChild(c); }</script>
+	<text style="stroke:purple;text-anchor:middle;font-size:50;" x="450.0" y="150.0">Hemicycle Example</text>
+	<text style="text-anchor:middle;font-weight:bold;font-size:28;" x="450.0" y="228.0">Election Results</text>
+	<g>
+		<title>The A Party: 2012311, 37.2% votes</title>
+		<path d="M150.0,576.0 A300,300,0,0,1,332.41666954502597,300.00333263041676 L371.61111303001735,392.00222175361114 A200,200,0,0,0,250.0,576.0 z" style="fill:green;"/>
+	</g>
+	<g>
+		<title>The B Party: 1900000, 35.1% votes</title>
+		<path d="M332.41666954502597,300.00333263041676 A300,300,0,0,1,643.2920794873503,346.5698973380871 L578.8613863249002,423.04659822539145 A200,200,0,0,0,371.61111303001735,392.00222175361114 z" style="fill:blue;"/>
+	</g>
+	<g>
+		<title>C Party: 1500000, 27.7% votes</title>
+		<path d="M643.2920794873503,346.5698973380871 A300,300,0,0,1,750.0,576.0 L650.0,576.0 A200,200,0,0,0,578.8613863249002,423.04659822539145 z" style="fill:red;"/>
+	</g>
+	<text style="text-anchor:middle;alignment-baseline:baseline;font-size:24;">
+		<textPath startOffset="50%" xlink:href="#ct0">Election Votes</textPath>
+	</text>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="309.58085196421223" cy="567.2488403938719" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="336.7735888166799" cy="567.2518627154844" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="364.00705450981326" cy="567.2581593300646" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="391.3368698107115" cy="567.2749695207278" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="313.0087998542373" cy="543.9448754148112" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="341.19415136098905" cy="543.4725132027133" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="369.36608604212677" cy="544.8651582273" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="320.27658636917" cy="521.5394097946692" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="350.55016620009064" cy="521.1686161712709" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="399.57070503360916" cy="544.7850162636213" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="331.1804967642098" cy="500.6604646925106" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="380.44699624409424" cy="524.6815226170171" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="364.41724286706255" cy="501.3518802853838" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="345.41489639820577" cy="481.8932731726878" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="362.58079761750673" cy="465.76387622763093" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="396.4634705166486" cy="508.13950734591583" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="382.1663683427138" cy="484.92119614538933" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="416.0280039345705" cy="527.3852647461689" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="382.1970433079106" cy="452.72437794373513" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="402.99243919597797" cy="472.6218624531318" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="416.2789607498833" cy="496.41295353973203" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="403.7137936417676" cy="443.14027310538563" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="425.95078121613983" cy="465.0117791326978" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="438.02508830946266" cy="517.9130781459934" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The A Party: 25, 46.3% seats</title>
+		<circle cx="426.52793798915013" cy="437.28020244209114" fill="green" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="438.4873361319725" cy="490.3339914374518" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="450.0" cy="462.43614089243437" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="450.0" cy="435.3084226773031" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="461.5126638680275" cy="490.3339914374518" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="473.47206201084987" cy="437.28020244209114" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="461.97491169053734" cy="517.9130781459934" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="474.0492187838601" cy="465.0117791326978" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="496.2862063582324" cy="443.14027310538563" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="483.7210392501167" cy="496.41295353973203" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="497.00756080402203" cy="472.6218624531318" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="517.8029566920893" cy="452.72437794373513" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="483.9719960654295" cy="527.3852647461689" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="517.8336316572861" cy="484.92119614538933" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="503.5365294833514" cy="508.13950734591583" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="537.4192023824933" cy="465.7638762276309" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="554.5851036017942" cy="481.8932731726878" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="535.5827571329374" cy="501.3518802853838" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="519.5530037559058" cy="524.6815226170172" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="568.8195032357902" cy="500.6604646925106" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="500.42929496639084" cy="544.7850162636213" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>The B Party: 21, 38.9% seats</title>
+		<circle cx="549.4498337999094" cy="521.1686161712707" fill="blue" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>C Party: 8, 14.8% seats</title>
+		<circle cx="579.72341363083" cy="521.5394097946692" fill="red" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>C Party: 8, 14.8% seats</title>
+		<circle cx="530.6339139578732" cy="544.8651582273" fill="red" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>C Party: 8, 14.8% seats</title>
+		<circle cx="558.805848639011" cy="543.4725132027132" fill="red" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>C Party: 8, 14.8% seats</title>
+		<circle cx="586.9912001457627" cy="543.9448754148112" fill="red" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>C Party: 8, 14.8% seats</title>
+		<circle cx="508.6631301892885" cy="567.2749695207278" fill="red" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>C Party: 8, 14.8% seats</title>
+		<circle cx="535.9929454901867" cy="567.2581593300646" fill="red" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>C Party: 8, 14.8% seats</title>
+		<circle cx="563.2264111833201" cy="567.2518627154844" fill="red" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<g>
+		<title>C Party: 8, 14.8% seats</title>
+		<circle cx="590.4191480357878" cy="567.2488403938719" fill="red" r="8.756812444574019" style="stroke:black;stroke-width:0.8756812444574018;"/>
+	</g>
+	<text style="text-anchor:middle;alignment-baseline:baseline;font-size:24;">
+		<textPath startOffset="50%" xlink:href="#ct1">Parliamentary Seats</textPath>
+	</text>
+	<path d="M100.0 596 124.0 596 124.0 620 100.0 620Z" fill="green" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;alignment-baseline:middle;font-size:24;" x="136.0" y="608.0">The A Party</text>
+	<path d="M333.33333333333337 596 357.33333333333337 596 357.33333333333337 620 333.33333333333337 620Z" fill="blue" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;alignment-baseline:middle;font-size:24;" x="369.33333333333337" y="608.0">The B Party</text>
+	<path d="M566.6666666666667 596 590.6666666666667 596 590.6666666666667 620 566.6666666666667 620Z" fill="red" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;alignment-baseline:middle;font-size:24;" x="602.6666666666667" y="608.0">C Party</text>
+</svg>

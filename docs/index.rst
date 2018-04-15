@@ -10,9 +10,12 @@ Welcome to PyInfoG's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   example
    diagram
+   narrative
 
+   hemicycle
+
+   example
 
 
 Indices and tables

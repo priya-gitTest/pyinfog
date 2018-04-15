@@ -13,6 +13,7 @@
 # limitations under the License.
 
 from pyinfog.diagram import Diagram
+from pyinfog.infogs.transition.transition import Transition
 import json
 import argparse
 
@@ -71,12 +72,11 @@ if __name__ == "__main__":
     p = d.addNarrative()
     p.addText("UK General Election",font_size=32,font_style={"stroke":"purple"})
     p.addText("Seats changing party, %s election - %s election"%(from_year,to_year), font_size=28, font_style={"font-weight": "bold"})
-    p.addInfographic("cosmograph",palette,labels) \
-        .addDiscretePlot(1024, 512, seat_changes, axis_labels=[from_year, to_year])
-    p.addVerticalSpace(20)
+    p.add(Transition(1024, 512, seat_changes, palette, labels, axis_labels=[from_year, to_year]))
+    p.addSpace(20,20)
     p.addText("source: http://explore.data.parliament.uk/?learnmore=Election Results", font_size=20,
               url="http://explore.data.parliament.uk/?learnmore=Election%20Results")
-    p.addLegend(palette,labels,legend_columns=3)
+    p.addLegend(palette,labels,512,legend_columns=3)
 
     svg = d.draw()
 

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Copyright 2017-2018 Niall McCarroll
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,23 +16,32 @@
 import random
 from math import radians,sin,cos
 
-import numpy
-
+from pyinfog.common.diagram_element import DiagramElement
 from pyinfog.infogs.somplot.hexgrid import HexGrid
 
+class SOMPlot(DiagramElement):
 
-class SOMPlot:
-    
-    def __init__(self,instances, width, rows, cols, iters, palette, labels):
+    def __init__(self,data, width, rows, cols, iters, palette, labels):
+        """
+        Create a SOM Plot (the SOM is actually trained when the draw method is invoked)
+
+        :param data: data in the form of a list of (label,float_list) pairs where float_list is a list of floats
+        :param width: the width of the plot in pixels
+        :param rows: the number of rows in the SOM plot
+        :param cols: the number of columns in the SOM plot
+        :param iters: the number of training iterations to use when training the SOM
+        :param palette: a list of (category, colour) pairs
+        :param labels: dict associating each category with a longer string label
+        """
         self.metadata = None
         self.width = width
         self.gridheight = cols
         self.gridwidth = rows
 
-        off_lg = width/(2*cols)
-        self.dlength = off_lg/cos(radians(30))
-        off_sm = self.dlength * sin(radians(30))
-        self.height = rows*(self.dlength+off_sm)+off_sm
+        self.off_lg = width/(2*cols+1)
+        self.dlength = self.off_lg/cos(radians(30))
+        self.off_sm = self.dlength * sin(radians(30))
+        self.height = rows*(self.dlength+self.off_sm)+self.off_sm
 
         self.palette = palette
         self.labels = labels
@@ -41,7 +51,7 @@ class SOMPlot:
         self.learnRate_initial = 0.5
         self.learnRate_final = 0.05
         self.rng = random.Random()
-        self.weights = [] 
+        self.weights = []
         self.oactivations = []
 
         self.neighbour_limit = 0
@@ -49,13 +59,13 @@ class SOMPlot:
         self.nrWeights = 0
 
         self.initial_neighbourhood = 4
-        self.instances = instances
+        self.instances = data
         self.scores = {}
 
         seed = 0
         self.rng.seed(seed)
 
-        self.nrInputs = len(instances[0][1])
+        self.nrInputs = len(self.instances[0][1])
         self.nrOutputs = self.gridwidth * self.gridheight
         self.hexgrid = HexGrid(self.gridwidth, self.gridheight, self.initial_neighbourhood,self)
         self.nrWeights = self.nrOutputs * self.nrInputs
@@ -65,7 +75,6 @@ class SOMPlot:
 
         for oa in range(0,self.nrOutputs):
             self.oactivations.append(0.0)
-
 
     def getWidth(self):
         return self.width
@@ -91,10 +100,10 @@ class SOMPlot:
     def computeActivations(self,iactivations):
         mindistance = None
         winner = -1
-        inarr = numpy.array(iactivations)
+        # inarr = numpy.array(iactivations)
         for idx in range(0,self.nrOutputs):
-            # self.oactivations[idx] = self.distance(self.iactivations,self.weights[(self.nrInputs*idx):(self.nrInputs*(idx+1))])
-            self.oactivations[idx] = numpy.linalg.norm(inarr-numpy.array(self.getWeights(idx)))
+            self.oactivations[idx] = self.distance(iactivations,self.weights[(self.nrInputs*idx):(self.nrInputs*(idx+1))])
+            # self.oactivations[idx] = numpy.linalg.norm(inarr-numpy.array(self.getWeights(idx)))
             if winner == -1:
                 mindistance = self.oactivations[idx]
                 winner = idx
@@ -147,9 +156,10 @@ class SOMPlot:
             self.weights[wpos] = w
 
     def draw(self,diagram,ox,oy):
-        off_lg = self.dlength * cos(radians(30))
+        self.train()
         ox -= self.getWidth()/2
-        oy = oy+self.dlength
+        ox += self.off_lg
+        oy = oy+self.dlength + self.off_sm
         scores = {(xc, yc): [] for xc in range(0, self.gridwidth) for yc in range(0, self.gridheight)}
         for (label, instance) in self.instances:
             winner_coords = self.coords(self.computeActivations(instance))

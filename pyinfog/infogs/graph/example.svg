@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="836" version="1.1" width="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs/>
+	<script id="script_0" type="text/ecmascript">function bringToFront(evt) { var p = evt.target.parentNode.parentNode; var c = evt.target.parentNode; p.removeChild(c); p.appendChild(c); }</script>
+	<text style="font-size:50;text-anchor:middle;stroke:purple;" x="300.0" y="150.0">Graph Example</text>
+	<line stroke="#AAAAAA" stroke-width="3" x1="457.3512762754154" x2="298.48285466025334" y1="262.6487237245846" y2="369.29366281463933"/>
+	<line stroke="#555555" stroke-width="3" x1="298.48285466025334" x2="424.08597814488087" y1="369.29366281463933" y2="559.6855964907893"/>
+	<line stroke="#000000" stroke-width="3" x1="424.08597814488087" x2="167.43355313447353" y1="559.6855964907893" y2="552.5664468655265"/>
+	<circle cx="457.3512762754154" cy="262.6487237245846" fill="green" r="42.64872372458461" stroke="#EEE" stroke-width="4"/>
+	<text font-size="11.372992993222566" style="text-anchor:middle;" textLength="68.23795795933539" x="457.3512762754154" y="262.6487237245846">Node 0</text>
+	<circle cx="298.48285466025334" cy="369.29366281463933" fill="blue" r="52.233805653081795" stroke="#EEE" stroke-width="4"/>
+	<circle cx="424.08597814488087" cy="559.6855964907893" fill="red" r="60.31440350921074" stroke="#EEE" stroke-width="4"/>
+	<circle cx="167.43355313447353" cy="552.5664468655265" fill="yellow" r="67.43355313447354" stroke="#EEE" stroke-width="4"/>
+	<text font-size="17.982280835859612" style="text-anchor:middle;" textLength="107.89368501515767" x="167.43355313447353" y="552.5664468655265">Node 3</text>
+	<path d="M100.0 640 124.0 640 124.0 664 100.0 664Z" fill="green" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="136.0" y="652.0">The A Party</text>
+	<path d="M300.0 640 324.0 640 324.0 664 300.0 664Z" fill="blue" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="336.0" y="652.0">The B Party</text>
+	<path d="M100.0 688 124.0 688 124.0 712 100.0 712Z" fill="red" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="136.0" y="700.0">C Party</text>
+	<path d="M300.0 688 324.0 688 324.0 712 300.0 712Z" fill="yellow" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="336.0" y="700.0">D Party</text>
+</svg>

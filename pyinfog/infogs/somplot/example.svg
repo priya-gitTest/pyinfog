@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="708" version="1.1" width="700" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs/>
+	<script id="script_0" type="text/ecmascript">function bringToFront(evt) { var p = evt.target.parentNode.parentNode; var c = evt.target.parentNode; p.removeChild(c); p.appendChild(c); }</script>
+	<script id="script_0" type="text/ecmascript">
+function toggleVisibility(cls) {
+    var found = document.getElementsByClassName(cls);
+    for(var idx=0; idx&lt;found.length; idx++) {
+        if (found[idx].getAttribute(&quot;visibility&quot;) == &quot;hidden&quot;) {
+            found[idx].setAttribute(&quot;visibility&quot;,&quot;visible&quot;);
+        } else {
+            found[idx].setAttribute(&quot;visibility&quot;,&quot;hidden&quot;);
+        }
+    }
+}
+</script>
+	<g>
+		<title>0_0</title>
+		<path d="M99.99999999999999 132.0750149549792 99.99999999999999 196.22504486493762 155.55555555555554 228.3000598199168 211.1111111111111 196.22504486493762 211.1111111111111 132.0750149549792 155.55555555555554 100.0Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;0_0&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>0_1</title>
+		<path d="M155.55555555555554 228.3000598199168 155.55555555555554 292.45008972987523 211.1111111111111 324.52510468485445 266.66666666666663 292.45008972987523 266.66666666666663 228.3000598199168 211.1111111111111 196.22504486493762Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;0_1&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>0_2</title>
+		<path d="M99.99999999999999 324.52510468485445 99.99999999999999 388.6751345948129 155.55555555555554 420.7501495497921 211.1111111111111 388.6751345948129 211.1111111111111 324.52510468485445 155.55555555555554 292.45008972987523Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;0_2&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>0_3</title>
+		<path d="M155.55555555555554 420.7501495497921 155.55555555555554 484.9001794597506 211.1111111111111 516.9751944147298 266.66666666666663 484.9001794597506 266.66666666666663 420.7501495497921 211.1111111111111 388.6751345948129Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;0_3&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>1_0</title>
+		<path d="M211.1111111111111 132.0750149549792 211.1111111111111 196.22504486493762 266.66666666666663 228.3000598199168 322.2222222222222 196.22504486493762 322.2222222222222 132.0750149549792 266.66666666666663 100.0Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;1_0&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>A</title>
+		<path d="M234.5916517116874,164.1500299099584 A32.07501495497921,32.07501495497921,0,1,1,274.70999411399805,195.20017432084873 L266.66666666666663,164.1500299099584 z" onclick="toggleVisibility(&quot;1_0&quot;)" style="fill:green;"/>
+	</g>
+	<g>
+		<title>B</title>
+		<path d="M274.70999411399805,195.20017432084873 A32.07501495497921,32.07501495497921,0,0,1,249.00572324984068,190.92497457824504 L266.66666666666663,164.1500299099584 z" onclick="toggleVisibility(&quot;1_0&quot;)" style="fill:blue;"/>
+	</g>
+	<g>
+		<title>C</title>
+		<path d="M249.00572324984068,190.92497457824504 A32.07501495497921,32.07501495497921,0,0,1,234.5916517116874,164.1500299099584 L266.66666666666663,164.1500299099584 z" onclick="toggleVisibility(&quot;1_0&quot;)" style="fill:red;"/>
+	</g>
+	<g>
+		<title>HillTown (A)</title>
+		<circle cx="311.57168760363754" cy="164.1500299099584" fill="green" r="6.415002990995842"/>
+	</g>
+	<g>
+		<title>FunnyTown (A)</title>
+		<circle cx="290.9289530239691" cy="201.9363021006105" fill="green" r="6.415002990995842"/>
+	</g>
+	<g>
+		<title>1_1</title>
+		<path d="M266.66666666666663 228.3000598199168 266.66666666666663 292.45008972987523 322.2222222222222 324.52510468485445 377.7777777777777 292.45008972987523 377.7777777777777 228.3000598199168 322.2222222222222 196.22504486493762Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;1_1&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>1_2</title>
+		<path d="M211.1111111111111 324.52510468485445 211.1111111111111 388.6751345948129 266.66666666666663 420.7501495497921 322.2222222222222 388.6751345948129 322.2222222222222 324.52510468485445 266.66666666666663 292.45008972987523Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;1_2&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>A</title>
+		<path d="M234.5916517116874,356.6001196398337 A32.07501495497921,32.07501495497921,0,1,1,298.6650840282861,358.8154911016312 L266.66666666666663,356.6001196398337 z" onclick="toggleVisibility(&quot;1_2&quot;)" style="fill:green;"/>
+	</g>
+	<g>
+		<title>B</title>
+		<path d="M298.6650840282861,358.8154911016312 A32.07501495497921,32.07501495497921,0,0,1,235.10072137669493,362.29201583641475 L266.66666666666663,356.6001196398337 z" onclick="toggleVisibility(&quot;1_2&quot;)" style="fill:blue;"/>
+	</g>
+	<g>
+		<title>C</title>
+		<path d="M235.10072137669493,362.29201583641475 A32.07501495497921,32.07501495497921,0,0,1,234.5916517116874,356.6001196398337 L266.66666666666663,356.6001196398337 z" onclick="toggleVisibility(&quot;1_2&quot;)" style="fill:red;"/>
+	</g>
+	<g>
+		<title>SmallTown (A)</title>
+		<circle cx="311.57168760363754" cy="356.6001196398337" fill="green" r="6.415002990995842"/>
+	</g>
+	<g>
+		<title>StrangeTown (A)</title>
+		<circle cx="290.9289530239691" cy="394.38639183048576" fill="green" r="6.415002990995842"/>
+	</g>
+	<g>
+		<title>1_3</title>
+		<path d="M266.66666666666663 420.7501495497921 266.66666666666663 484.9001794597506 322.2222222222222 516.9751944147298 377.7777777777777 484.9001794597506 377.7777777777777 420.7501495497921 322.2222222222222 388.6751345948129Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;1_3&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>2_0</title>
+		<path d="M322.2222222222222 132.0750149549792 322.2222222222222 196.22504486493762 377.7777777777777 228.3000598199168 433.33333333333326 196.22504486493762 433.33333333333326 132.0750149549792 377.7777777777777 100.0Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;2_0&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>A</title>
+		<path d="M345.7027628227985,164.1500299099584 A32.07501495497921,32.07501495497921,0,1,1,386.6161702069941,194.98328150023525 L377.7777777777777,164.1500299099584 z" onclick="toggleVisibility(&quot;2_0&quot;)" style="fill:green;"/>
+	</g>
+	<g>
+		<title>B</title>
+		<path d="M386.6161702069941,194.98328150023525 A32.07501495497921,32.07501495497921,0,0,1,359.55926615962983,190.54874993161002 L377.7777777777777,164.1500299099584 z" onclick="toggleVisibility(&quot;2_0&quot;)" style="fill:blue;"/>
+	</g>
+	<g>
+		<title>C</title>
+		<path d="M359.55926615962983,190.54874993161002 A32.07501495497921,32.07501495497921,0,0,1,345.7027628227985,164.15002990995842 L377.7777777777777,164.1500299099584 z" onclick="toggleVisibility(&quot;2_0&quot;)" style="fill:red;"/>
+	</g>
+	<g>
+		<title>AnyTown (A)</title>
+		<circle cx="422.6827987147486" cy="164.1500299099584" fill="green" r="6.415002990995842"/>
+	</g>
+	<g>
+		<title>2_1</title>
+		<path d="M377.7777777777777 228.3000598199168 377.7777777777777 292.45008972987523 433.33333333333326 324.52510468485445 488.8888888888888 292.45008972987523 488.8888888888888 228.3000598199168 433.33333333333326 196.22504486493762Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;2_1&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>2_2</title>
+		<path d="M322.2222222222222 324.52510468485445 322.2222222222222 388.6751345948129 377.7777777777777 420.7501495497921 433.33333333333326 388.6751345948129 433.33333333333326 324.52510468485445 377.7777777777777 292.45008972987523Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;2_2&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>A</title>
+		<path d="M345.7027628227985,356.6001196398337 A32.07501495497921,32.07501495497921,0,1,1,409.81069205215675,358.2429791750421 L377.7777777777777,356.6001196398337 z" onclick="toggleVisibility(&quot;2_2&quot;)" style="fill:green;"/>
+	</g>
+	<g>
+		<title>B</title>
+		<path d="M409.81069205215675,358.2429791750421 A32.07501495497921,32.07501495497921,0,0,1,346.1938801352671,362.1915411111189 L377.7777777777777,356.6001196398337 z" onclick="toggleVisibility(&quot;2_2&quot;)" style="fill:blue;"/>
+	</g>
+	<g>
+		<title>C</title>
+		<path d="M346.1938801352671,362.1915411111189 A32.07501495497921,32.07501495497921,0,0,1,345.7027628227985,356.6001196398337 L377.7777777777777,356.6001196398337 z" onclick="toggleVisibility(&quot;2_2&quot;)" style="fill:red;"/>
+	</g>
+	<g>
+		<title>BigTown (B)</title>
+		<circle cx="422.6827987147486" cy="356.6001196398337" fill="blue" r="6.415002990995842"/>
+	</g>
+	<g>
+		<title>2_3</title>
+		<path d="M377.7777777777777 420.7501495497921 377.7777777777777 484.9001794597506 433.33333333333326 516.9751944147298 488.8888888888888 484.9001794597506 488.8888888888888 420.7501495497921 433.33333333333326 388.6751345948129Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;2_3&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>3_0</title>
+		<path d="M433.33333333333326 132.0750149549792 433.33333333333326 196.22504486493762 488.8888888888888 228.3000598199168 544.4444444444443 196.22504486493762 544.4444444444443 132.0750149549792 488.8888888888888 100.0Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;3_0&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>3_1</title>
+		<path d="M488.8888888888888 228.3000598199168 488.8888888888888 292.45008972987523 544.4444444444443 324.52510468485445 599.9999999999999 292.45008972987523 599.9999999999999 228.3000598199168 544.4444444444443 196.22504486493762Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;3_1&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>3_2</title>
+		<path d="M433.33333333333326 324.52510468485445 433.33333333333326 388.6751345948129 488.8888888888888 420.7501495497921 544.4444444444443 388.6751345948129 544.4444444444443 324.52510468485445 488.8888888888888 292.45008972987523Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;3_2&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>3_3</title>
+		<path d="M488.8888888888888 420.7501495497921 488.8888888888888 484.9001794597506 544.4444444444443 516.9751944147298 599.9999999999999 484.9001794597506 599.9999999999999 420.7501495497921 544.4444444444443 388.6751345948129Z" fill="#E0E0E0" onclick="toggleVisibility(&quot;3_3&quot;)" stroke="(128, 128, 128)" stroke-width="4" style="stroke-width:3;stroke:grey;"/>
+	</g>
+	<g>
+		<title>A</title>
+		<path d="M512.3694294894651,452.82516450477135 A32.07501495497921,32.07501495497921,0,0,1,528.6584696845857,424.90367483743364 L544.4444444444443,452.82516450477135 z" onclick="toggleVisibility(&quot;3_3&quot;)" style="fill:green;"/>
+	</g>
+	<g>
+		<title>B</title>
+		<path d="M528.6584696845857,424.90367483743364 A32.07501495497921,32.07501495497921,0,1,1,522.2667563998575,475.9974914781059 L544.4444444444443,452.82516450477135 z" onclick="toggleVisibility(&quot;3_3&quot;)" style="fill:blue;"/>
+	</g>
+	<g>
+		<title>C</title>
+		<path d="M522.2667563998575,475.9974914781059 A32.07501495497921,32.07501495497921,0,0,1,512.3694294894651,452.82516450477135 L544.4444444444443,452.82516450477135 z" onclick="toggleVisibility(&quot;3_3&quot;)" style="fill:red;"/>
+	</g>
+	<g>
+		<title>SeaTown (B)</title>
+		<circle cx="589.3494653814153" cy="452.82516450477135" fill="blue" r="6.415002990995842"/>
+	</g>
+	<g>
+		<title>NowhereTown (B)</title>
+		<circle cx="568.7067308017469" cy="490.61143669542344" fill="blue" r="6.415002990995842"/>
+	</g>
+	<text class="1_0" dominant-baseline="middle" style="text-anchor:start;stroke-width:10px;stroke:white;fill:green;paint-order:stroke;" transform="rotate(0.000000,321.571688,164.150030)" visibility="hidden" x="321.57168760363754" y="164.1500299099584">HillTown (A)</text>
+	<text class="1_0" dominant-baseline="middle" style="text-anchor:start;stroke-width:10px;stroke:white;fill:green;paint-order:stroke;" transform="rotate(57.295780,296.331976,210.351012)" visibility="hidden" x="296.3319760826505" y="210.35101194868946">FunnyTown (A)</text>
+	<text class="1_2" dominant-baseline="middle" style="text-anchor:start;stroke-width:10px;stroke:white;fill:green;paint-order:stroke;" transform="rotate(0.000000,321.571688,356.600120)" visibility="hidden" x="321.57168760363754" y="356.6001196398337">SmallTown (A)</text>
+	<text class="1_2" dominant-baseline="middle" style="text-anchor:start;stroke-width:10px;stroke:white;fill:green;paint-order:stroke;" transform="rotate(57.295780,296.331976,402.801102)" visibility="hidden" x="296.3319760826505" y="402.80110167856475">StrangeTown (A)</text>
+	<text class="2_0" dominant-baseline="middle" style="text-anchor:start;stroke-width:10px;stroke:white;fill:green;paint-order:stroke;" transform="rotate(0.000000,432.682799,164.150030)" visibility="hidden" x="432.6827987147486" y="164.1500299099584">AnyTown (A)</text>
+	<text class="2_2" dominant-baseline="middle" style="text-anchor:start;stroke-width:10px;stroke:white;fill:blue;paint-order:stroke;" transform="rotate(0.000000,432.682799,356.600120)" visibility="hidden" x="432.6827987147486" y="356.6001196398337">BigTown (B)</text>
+	<text class="3_3" dominant-baseline="middle" style="text-anchor:start;stroke-width:10px;stroke:white;fill:blue;paint-order:stroke;" transform="rotate(0.000000,599.349465,452.825165)" visibility="hidden" x="599.3494653814153" y="452.82516450477135">SeaTown (B)</text>
+	<text class="3_3" dominant-baseline="middle" style="text-anchor:start;stroke-width:10px;stroke:white;fill:blue;paint-order:stroke;" transform="rotate(57.295780,574.109754,499.026147)" visibility="hidden" x="574.1097538604282" y="499.0261465435024">NowhereTown (B)</text>
+	<path d="M100.0 536.9751944147297 124.0 536.9751944147297 124.0 560.9751944147297 100.0 560.9751944147297Z" fill="green" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="548.9751944147297">The A Party</text>
+	<path d="M350.0 536.9751944147297 374.0 536.9751944147297 374.0 560.9751944147297 350.0 560.9751944147297Z" fill="blue" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="386.0" y="548.9751944147297">The B Party</text>
+	<path d="M100.0 584.9751944147297 124.0 584.9751944147297 124.0 608.9751944147297 100.0 608.9751944147297Z" fill="red" stroke="black" stroke-width="2"/>
+	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="596.9751944147297">C Party</text>
+</svg>

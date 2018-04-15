@@ -37,14 +37,17 @@ class Diagram:
         self.hmargin = hmargin
         self.vmargin = vmargin
         self.narrative_spacing = narrative_spacing
+        self.min_width = 200
         self.narratives = []
 
 
-    def addNarrative(self,min_width=0):
-        n = Narrative(min_width)
+    def addNarrative(self,min_width=0,debug=False):
+        n = Narrative(min_width,debug=debug)
         self.narratives.append(n)
         return n
 
+    def __repr_svg__(self):
+        return self.draw()
 
     def draw(self):
         """
@@ -53,9 +56,12 @@ class Diagram:
         :return: string containing the SVG document
         """
 
+        for n in self.narratives:
+            n.build()
+
         w = sum([n.getWidth() for n in self.narratives])
         if len(self.narratives)>1:
-            w += self.narrative_spacing * (len(self.narratives)-1)
+            w += self.narrative_spacing * len(self.narratives)
         h = max([n.getHeight() for n in self.narratives])
 
         w += self.hmargin*2

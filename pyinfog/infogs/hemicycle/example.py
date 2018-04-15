@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Copyright 2017-2018 Niall McCarroll
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,7 +14,7 @@
 # limitations under the License.
 
 from pyinfog.diagram import Diagram
-from pyinfog.narrative import Narrative
+from pyinfog.infogs.hemicycle.hemicycle import HemiCycle
 import os.path
 import sys
 
@@ -35,20 +36,21 @@ if __name__ == "__main__":
     }
 
     p = Diagram()
-    n = p.addNarrative(0)
+    n = p.addNarrative()
     n.addText("Hemicycle Example",font_size=50,font_style={"stroke":"purple"})
-    n.addText("Results",font_size=28,font_style={"font-weight":"bold"})
-    n.addVerticalSpace(20)
-    n.addInfographic("hemicycle",palette,labels) \
-        .addContinuousPlot("Election Votes", 200, 300, votes) \
-        .addDiscretePlot("Parliamentary Seats", 50, 150, seats)
-    n.addVerticalSpace(20)
-    n.addLegend(palette,labels,legend_columns=3)
+    n.addText("Election Results",font_size=28,font_style={"font-weight":"bold"})
+    n.addSpace(20,20)
+    h = HemiCycle(palette,labels)
+    h.addContinuousPlot("Election Votes", 200, 300, votes)
+    h.addDiscretePlot("Parliamentary Seats", 50, 150, seats)
+    n.add(h)
+    n.addSpace(20,20)
+    n.addLegend(palette,labels,700,legend_columns=3)
 
     svg = p.draw()
 
     folder = os.path.split(sys.argv[0])[0]
-    outputpath = os.path.join(folder,"example_hemicycle.svg")
+    outputpath = os.path.join(folder,"example.svg")
     f = open(outputpath, "wb")
     f.write(svg)
     f.close()

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Copyright 2017-2018 Niall McCarroll
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,17 +13,27 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+from pyinfog.svg.pysvg import image
 from pyinfog.common.diagram_element import DiagramElement
+import base64
 
-class Space(DiagramElement):
+class Image(DiagramElement):
 
-    def __init__(self, width,height):
+    def __init__(self,mimeType,content_bytes,width,height,tooltip=""):
         DiagramElement.__init__(self)
-        self.height = height
-        self.width = width
+        self.mimeType=mimeType
+        self.contentBytes=content_bytes
+        self.width=width
+        self.height=height
+        self.tooltip=tooltip
 
     def getHeight(self):
         return self.height
 
-    def getHeight(self):
+    def getWidth(self):
         return self.width
+
+    def draw(self,d,ox,oy):
+        uri="data:"+self.mimeType+";charset=US-ASCII;base64,"+str(base64.b64encode(self.contentBytes),"utf-8")
+        i = image(ox-self.width/2,oy,self.width,self.height,uri,tooltip=self.tooltip)
+        d.add(i)

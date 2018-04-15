@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg height="1232" version="1.1" width="1224" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg height="1132" version="1.1" width="1628" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
 		<linearGradient id="lg_0">
 			<stop offset="0%" stop-color="#c0153d"/>
@@ -43,81 +43,81 @@
 		</linearGradient>
 	</defs>
 	<script id="script_0" type="text/ecmascript">function bringToFront(evt) { var p = evt.target.parentNode.parentNode; var c = evt.target.parentNode; p.removeChild(c); p.appendChild(c); }</script>
-	<text style="text-anchor:middle;stroke:purple;font-size:32;" x="612.0" y="132">UK General Election</text>
-	<text style="text-anchor:middle;font-weight:bold;font-size:28;" x="612.0" y="192">Seats changing party, 2010 election - 2015 election</text>
-	<text style="text-anchor:start;font-size:16;" x="100.0" y="220">2010</text>
-	<text style="text-anchor:end;font-size:16;" x="1124.0" y="220">2015</text>
+	<text font-size="32" style="stroke:purple;text-anchor:middle;" x="814.0" y="132.0">UK General Election</text>
+	<text font-size="28" style="font-weight:bold;text-anchor:middle;" x="814.0" y="192.0">Seats changing party, 2010 election - 2015 election</text>
+	<text style="font-size:16;text-anchor:start;" x="302.0" y="220">2010</text>
+	<text style="font-size:16;text-anchor:end;" x="1326.0" y="220">2015</text>
 	<g>
 		<g>
 			<title>Democratic Unionist Party=&gt;Ulster Unionist Party(1 seats)</title>
-			<path d="M100.0 236.0 C 200.0 236.0 1024.0 245.22522522522522 1124.0 245.22522522522522 L 1124.0 249.83783783783784 C 1024.0 249.83783783783784 200.0 240.61261261261262 100.0 240.61261261261262Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_0);"/>
+			<path d="M302.0 236.0 C 402.0 236.0 1226.0 245.22522522522522 1326.0 245.22522522522522 L 1326.0 249.83783783783784 C 1226.0 249.83783783783784 402.0 240.61261261261262 302.0 240.61261261261262Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_0);"/>
 		</g>
 		<g>
 			<title>Labour=&gt;Conservative(8 seats)</title>
-			<path d="M100.0 240.61261261261262 C 200.0 240.61261261261262 1024.0 355.92792792792795 1124.0 355.92792792792795 L 1124.0 392.8288288288289 C 1024.0 392.8288288288289 200.0 277.51351351351354 100.0 277.51351351351354Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_1);"/>
+			<path d="M302.0 240.61261261261262 C 402.0 240.61261261261262 1226.0 355.92792792792795 1326.0 355.92792792792795 L 1326.0 392.8288288288289 C 1226.0 392.8288288288289 402.0 277.51351351351354 302.0 277.51351351351354Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_1);"/>
 		</g>
 		<g>
 			<title>Labour=&gt;Scottish National Party(40 seats)</title>
-			<path d="M100.0 277.51351351351354 C 200.0 277.51351351351354 1024.0 517.3693693693695 1124.0 517.3693693693695 L 1124.0 701.8738738738739 C 1024.0 701.8738738738739 200.0 462.01801801801804 100.0 462.01801801801804Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_2);"/>
+			<path d="M302.0 277.51351351351354 C 402.0 277.51351351351354 1226.0 517.3693693693695 1326.0 517.3693693693695 L 1326.0 701.8738738738739 C 1226.0 701.8738738738739 402.0 462.01801801801804 302.0 462.01801801801804Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_2);"/>
 		</g>
 		<g>
 			<title>Conservative=&gt;UK Independence Party(1 seats)</title>
-			<path d="M100.0 462.018018018018 C 200.0 462.018018018018 1024.0 240.61261261261262 1124.0 240.61261261261262 L 1124.0 245.22522522522524 C 1024.0 245.22522522522524 200.0 466.6306306306306 100.0 466.6306306306306Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_3);"/>
+			<path d="M302.0 462.018018018018 C 402.0 462.018018018018 1226.0 240.61261261261262 1326.0 240.61261261261262 L 1326.0 245.22522522522524 C 1226.0 245.22522522522524 402.0 466.6306306306306 302.0 466.6306306306306Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_3);"/>
 		</g>
 		<g>
 			<title>Conservative=&gt;Labour(10 seats)</title>
-			<path d="M100.0 466.63063063063066 C 200.0 466.63063063063066 1024.0 254.45045045045046 1124.0 254.45045045045046 L 1124.0 300.5765765765766 C 1024.0 300.5765765765766 200.0 512.7567567567568 100.0 512.7567567567568Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_4);"/>
+			<path d="M302.0 466.63063063063066 C 402.0 466.63063063063066 1226.0 254.45045045045046 1326.0 254.45045045045046 L 1326.0 300.5765765765766 C 1226.0 300.5765765765766 402.0 512.7567567567568 302.0 512.7567567567568Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_4);"/>
 		</g>
 		<g>
 			<title>Liberal Democrats=&gt;Labour(12 seats)</title>
-			<path d="M100.0 512.7567567567568 C 200.0 512.7567567567568 1024.0 300.5765765765766 1124.0 300.5765765765766 L 1124.0 355.92792792792795 C 1024.0 355.92792792792795 200.0 568.1081081081081 100.0 568.1081081081081Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_5);"/>
+			<path d="M302.0 512.7567567567568 C 402.0 512.7567567567568 1226.0 300.5765765765766 1326.0 300.5765765765766 L 1326.0 355.92792792792795 C 1226.0 355.92792792792795 402.0 568.1081081081081 302.0 568.1081081081081Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_5);"/>
 		</g>
 		<g>
 			<title>Liberal Democrats=&gt;Conservative(27 seats)</title>
-			<path d="M100.0 568.1081081081081 C 200.0 568.1081081081081 1024.0 392.8288288288288 1124.0 392.8288288288288 L 1124.0 517.3693693693693 C 1024.0 517.3693693693693 200.0 692.6486486486485 100.0 692.6486486486485Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_6);"/>
+			<path d="M302.0 568.1081081081081 C 402.0 568.1081081081081 1226.0 392.8288288288288 1326.0 392.8288288288288 L 1326.0 517.3693693693693 C 1226.0 517.3693693693693 402.0 692.6486486486485 302.0 692.6486486486485Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_6);"/>
 		</g>
 		<g>
 			<title>Liberal Democrats=&gt;Scottish National Party(10 seats)</title>
-			<path d="M100.0 692.6486486486486 C 200.0 692.6486486486486 1024.0 701.8738738738739 1124.0 701.8738738738739 L 1124.0 748.0 C 1024.0 748.0 200.0 738.7747747747746 100.0 738.7747747747746Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_7);"/>
+			<path d="M302.0 692.6486486486486 C 402.0 692.6486486486486 1226.0 701.8738738738739 1326.0 701.8738738738739 L 1326.0 748.0 C 1226.0 748.0 402.0 738.7747747747746 302.0 738.7747747747746Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_7);"/>
 		</g>
 		<g>
 			<title>Sinn Fein=&gt;Ulster Unionist Party(1 seats)</title>
-			<path d="M100.0 738.7747747747748 C 200.0 738.7747747747748 1024.0 249.83783783783784 1124.0 249.83783783783784 L 1124.0 254.45045045045046 C 1024.0 254.45045045045046 200.0 743.3873873873873 100.0 743.3873873873873Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_8);"/>
+			<path d="M302.0 738.7747747747748 C 402.0 738.7747747747748 1226.0 249.83783783783784 1326.0 249.83783783783784 L 1326.0 254.45045045045046 C 1226.0 254.45045045045046 402.0 743.3873873873873 302.0 743.3873873873873Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_8);"/>
 		</g>
 		<g>
 			<title>ALLIANCE=&gt;DUP(1 seats)</title>
-			<path d="M100.0 743.3873873873874 C 200.0 743.3873873873874 1024.0 236.0 1124.0 236.0 L 1124.0 240.61261261261262 C 1024.0 240.61261261261262 200.0 748.0 100.0 748.0Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_9);"/>
+			<path d="M302.0 743.3873873873874 C 402.0 743.3873873873874 1226.0 236.0 1326.0 236.0 L 1326.0 240.61261261261262 C 1226.0 240.61261261261262 402.0 748.0 302.0 748.0Z" fill="grey" onclick="bringToFront(evt);" style="fill:url(#lg_9);"/>
 		</g>
 	</g>
 	<a href="http://explore.data.parliament.uk/?learnmore=Election%20Results" target="_new">
-		<text style="text-anchor:middle;text-decoration:underline;stroke:blue;font-size:20;" x="612.0" y="788">source: http://explore.data.parliament.uk/?learnmore=Election Results</text>
+		<text font-size="20" style="stroke:blue;text-decoration:underline;text-anchor:middle;" x="814.0" y="788.0">source: http://explore.data.parliament.uk/?learnmore=Election Results</text>
 	</a>
-	<path d="M100.0 852 124.0 852 124.0 876 100.0 876Z" fill="#0575c9" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="864.0">Conservative</text>
-	<path d="M441.3333333333333 852 465.3333333333333 852 465.3333333333333 876 441.3333333333333 876Z" fill="#ed1e0e" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="477.3333333333333" y="864.0">Labour</text>
-	<path d="M782.6666666666666 852 806.6666666666666 852 806.6666666666666 876 782.6666666666666 876Z" fill="#ebc31c" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="818.6666666666666" y="864.0">Scottish National Party</text>
-	<path d="M100.0 900 124.0 900 124.0 924 100.0 924Z" fill="#ff8400" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="912.0">Liberal Democrats</text>
-	<path d="M441.3333333333333 900 465.3333333333333 900 465.3333333333333 924 441.3333333333333 924Z" fill="#c0153d" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="477.3333333333333" y="912.0">Democratic Unionist Party</text>
-	<path d="M782.6666666666666 900 806.6666666666666 900 806.6666666666666 924 782.6666666666666 924Z" fill="#00623f" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="818.6666666666666" y="912.0">Sinn Fein</text>
-	<path d="M100.0 948 124.0 948 124.0 972 100.0 972Z" fill="#4b6b3f" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="960.0">Plaid Cymru</text>
-	<path d="M441.3333333333333 948 465.3333333333333 948 465.3333333333333 972 441.3333333333333 972Z" fill="#65a966" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="477.3333333333333" y="960.0">Social Democratic &amp; Labour Party</text>
-	<path d="M782.6666666666666 948 806.6666666666666 948 806.6666666666666 972 782.6666666666666 972Z" fill="#6ab1e6" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="818.6666666666666" y="960.0">Ulster Unionist Party</text>
-	<path d="M100.0 996 124.0 996 124.0 1020 100.0 1020Z" fill="#78c31e" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="1008.0">Green Party</text>
-	<path d="M441.3333333333333 996 465.3333333333333 996 465.3333333333333 1020 441.3333333333333 1020Z" fill="#712f87" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="477.3333333333333" y="1008.0">UK Independence Party</text>
-	<path d="M782.6666666666666 996 806.6666666666666 996 806.6666666666666 1020 782.6666666666666 1020Z" fill="#000000" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="818.6666666666666" y="1008.0">Speaker</text>
-	<path d="M100.0 1044 124.0 1044 124.0 1068 100.0 1068Z" fill="#505050" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="136.0" y="1056.0">Alliance Party</text>
-	<path d="M441.3333333333333 1044 465.3333333333333 1044 465.3333333333333 1068 441.3333333333333 1068Z" fill="#505050" stroke="black" stroke-width="2"/>
-	<text style="text-anchor:start;font-size:24;alignment-baseline:middle;" x="477.3333333333333" y="1056.0">Other</text>
+	<path d="M558.0 808 582.0 808 582.0 832 558.0 832Z" fill="#ebc31c" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="594.0" y="820.0">Scottish National Party</text>
+	<path d="M728.6666666666666 808 752.6666666666666 808 752.6666666666666 832 728.6666666666666 832Z" fill="#ff8400" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="764.6666666666666" y="820.0">Liberal Democrats</text>
+	<path d="M899.3333333333333 808 923.3333333333333 808 923.3333333333333 832 899.3333333333333 832Z" fill="#712f87" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="935.3333333333333" y="820.0">UK Independence Party</text>
+	<path d="M558.0 856 582.0 856 582.0 880 558.0 880Z" fill="#00623f" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="594.0" y="868.0">Sinn Fein</text>
+	<path d="M728.6666666666666 856 752.6666666666666 856 752.6666666666666 880 728.6666666666666 880Z" fill="#6ab1e6" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="764.6666666666666" y="868.0">Ulster Unionist Party</text>
+	<path d="M899.3333333333333 856 923.3333333333333 856 923.3333333333333 880 899.3333333333333 880Z" fill="#ed1e0e" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="935.3333333333333" y="868.0">Labour</text>
+	<path d="M558.0 904 582.0 904 582.0 928 558.0 928Z" fill="#000000" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="594.0" y="916.0">Speaker</text>
+	<path d="M728.6666666666666 904 752.6666666666666 904 752.6666666666666 928 728.6666666666666 928Z" fill="#505050" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="764.6666666666666" y="916.0">Other</text>
+	<path d="M899.3333333333333 904 923.3333333333333 904 923.3333333333333 928 899.3333333333333 928Z" fill="#c0153d" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="935.3333333333333" y="916.0">Democratic Unionist Party</text>
+	<path d="M558.0 952 582.0 952 582.0 976 558.0 976Z" fill="#0575c9" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="594.0" y="964.0">Conservative</text>
+	<path d="M728.6666666666666 952 752.6666666666666 952 752.6666666666666 976 728.6666666666666 976Z" fill="#505050" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="764.6666666666666" y="964.0">Alliance Party</text>
+	<path d="M899.3333333333333 952 923.3333333333333 952 923.3333333333333 976 899.3333333333333 976Z" fill="#4b6b3f" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="935.3333333333333" y="964.0">Plaid Cymru</text>
+	<path d="M558.0 1000 582.0 1000 582.0 1024 558.0 1024Z" fill="#78c31e" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="594.0" y="1012.0">Green Party</text>
+	<path d="M728.6666666666666 1000 752.6666666666666 1000 752.6666666666666 1024 728.6666666666666 1024Z" fill="#65a966" stroke="black" stroke-width="2"/>
+	<text style="font-size:24;text-anchor:start;alignment-baseline:middle;" x="764.6666666666666" y="1012.0">Social Democratic &amp; Labour Party</text>
 </svg>

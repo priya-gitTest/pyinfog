@@ -5,7 +5,7 @@ PyInfoG Diagrams
 
 .. automodule:: pyinfog
 
-.. autoclass:: pyinfog.diagram.Diagram
+.. autoclass:: pyinfog.infogs.hemicycle.hemicycle.HemiCycle
   :members:
 
   .. automethod:: __init__

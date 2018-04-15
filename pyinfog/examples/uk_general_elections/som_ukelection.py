@@ -13,6 +13,7 @@
 # limitations under the License.
 
 from pyinfog.diagram import Diagram
+from pyinfog.infogs.somplot.somplot import SOMPlot
 import random
 import json
 import argparse
@@ -81,7 +82,7 @@ if __name__ == "__main__":
     d = Diagram()
     p = d.addNarrative()
     p.addText("SOM TEST",font_size=32,font_style={"stroke":"purple"})
-    p.addInfographic("somplot",palette,labels).addSOMPlot(data,800,10,10,100)
+    p.add(SOMPlot(data,800,10,10,100,palette,labels))
     p.addText("SOM TEST", font_size=32, font_style={"stroke": "purple"})
 
     svg = d.draw()

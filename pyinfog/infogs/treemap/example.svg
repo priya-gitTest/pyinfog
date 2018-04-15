@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="836" version="1.1" width="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs/>
+	<script id="script_0" type="text/ecmascript">function bringToFront(evt) { var p = evt.target.parentNode.parentNode; var c = evt.target.parentNode; p.removeChild(c); p.appendChild(c); }</script>
+	<text style="text-anchor:middle;font-size:50;stroke:purple;" x="300.0" y="150.0">TreeMap Example</text>
+	<g>
+		<title>Category A</title>
+		<rect fill="green" height="400" width="70.17543859649122" x="100.0" y="220"/>
+	</g>
+	<text dominant-baseline="hanging" style="text-anchor:start;" x="101.40350877192982" y="228.0">17.54%</text>
+	<g>
+		<title>Category B</title>
+		<rect fill="blue" height="170.21276595744678" width="329.82456140350877" x="170.17543859649123" y="220"/>
+	</g>
+	<text dominant-baseline="hanging" style="text-anchor:start;" x="176.7719298245614" y="223.40425531914894">35.09%</text>
+	<g>
+		<title>Category D</title>
+		<rect fill="yellow" height="85.10638297872339" width="329.82456140350877" x="170.17543859649123" y="390.2127659574468"/>
+	</g>
+	<text dominant-baseline="hanging" style="text-anchor:start;" x="176.7719298245614" y="391.9148936170212">17.54%</text>
+	<g>
+		<title>Category A</title>
+		<rect fill="green" height="85.10638297872339" width="329.82456140350877" x="170.17543859649123" y="475.31914893617017"/>
+	</g>
+	<text dominant-baseline="hanging" style="text-anchor:start;" x="176.7719298245614" y="477.0212765957446">17.54%</text>
+	<g>
+		<title>Category C</title>
+		<rect fill="red" height="17.02127659574468" width="329.82456140350877" x="170.17543859649123" y="560.4255319148936"/>
+	</g>
+	<text dominant-baseline="hanging" style="text-anchor:start;" x="176.7719298245614" y="560.7659574468084">3.51%</text>
+	<rect fill="none" height="357.4468085106383" stroke="black" stroke_width="4" width="329.82456140350877" x="170.17543859649123" y="220"/>
+	<g>
+		<title>Category C</title>
+		<rect fill="red" height="42.5531914893617" width="329.82456140350877" x="170.17543859649123" y="577.4468085106382"/>
+	</g>
+	<text dominant-baseline="hanging" style="text-anchor:start;" x="176.7719298245614" y="578.2978723404254">8.77%</text>
+	<rect fill="none" height="400" stroke="black" stroke_width="4" width="329.82456140350877" x="170.17543859649123" y="220"/>
+	<rect fill="none" height="400" stroke="black" stroke_width="4" width="400" x="100.0" y="220"/>
+	<path d="M100.0 640 124.0 640 124.0 664 100.0 664Z" fill="green" stroke="black" stroke-width="2"/>
+	<text style="alignment-baseline:middle;text-anchor:start;font-size:24;" x="136.0" y="652.0">Category A</text>
+	<path d="M300.0 640 324.0 640 324.0 664 300.0 664Z" fill="blue" stroke="black" stroke-width="2"/>
+	<text style="alignment-baseline:middle;text-anchor:start;font-size:24;" x="336.0" y="652.0">Category B</text>
+	<path d="M100.0 688 124.0 688 124.0 712 100.0 712Z" fill="red" stroke="black" stroke-width="2"/>
+	<text style="alignment-baseline:middle;text-anchor:start;font-size:24;" x="136.0" y="700.0">Category C</text>
+	<path d="M300.0 688 324.0 688 324.0 712 300.0 712Z" fill="yellow" stroke="black" stroke-width="2"/>
+	<text style="alignment-baseline:middle;text-anchor:start;font-size:24;" x="336.0" y="700.0">Category D</text>
+</svg>

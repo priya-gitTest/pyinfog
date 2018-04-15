@@ -1,6 +1,13 @@
 # pyinfog
 
-python3 library for plotting infographics with SVG
+![pyinfog logo](https://github.com/niallmcc/pyinfog/blob/master/pyinfog/pyinfog.jpg)
+python3 library for plotting data-driven infographics with SVG
+
+This library is at an early stage of development but ultimately aims to:
+
+* provide a simple framework allowing codes for new infographic to plug in
+* provide an API for laying out visualizations as a set of linked narratives
+* provide a set of well documented infographics out of the box
 
 Usage:
 
@@ -10,12 +17,13 @@ Usage:
     cd pyinfog
     python3 setup.py install
 
-    python3 -m pyinfog.examples.simple.example_cosmograph.py
-    python3 -m pyinfog.examples.simple.example_hemicycle.py
-    python3 -m pyinfog.examples.simple.example_somplot.py
+    python3 -m pyinfog.infogs.hemicycle.example
+    python3 -m pyinfog.infogs.transition.example
+    python3 -m pyinfog.infogs.somplot.example
+    python3 -m pyinfog.infogs.wordcloud.example
+    python3 -m pyinfog.infogs.treemap.example
+    python3 -m pyinfog.infogs.graph.example
 ```
 
-![Example - Hemicycle Diagram](https://github.com/niallmcc/pyinfog/blob/master/pyinfog/examples/simple/example_hemicycle.png)
-![Example - Cosmograph Diagram](https://github.com/niallmcc/pyinfog/blob/master/pyinfog/examples/simple/example_cosmograph.png)
-![Example - SOMPlot Diagram](https://github.com/niallmcc/pyinfog/blob/master/pyinfog/examples/simple/example_somplot.png)
+![Example - Gallery](https://github.com/niallmcc/pyinfog/blob/master/pyinfog/examples/gallery/example_gallery.svg)
 

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Copyright 2017-2018 Niall McCarroll
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,41 +14,36 @@
 # limitations under the License.
 
 from pyinfog.diagram import Diagram
+from pyinfog.infogs.somplot.somplot import SOMPlot
 import os
 import sys
 
-# data uk_election_results_2010_2015.json collected from http://lda.data.parliament.uk/
-# see pyinfog/examples/download_uk_election_data.py
 
 if __name__ == "__main__":
-
     palette = [("A", "green"), ("B", "blue"), ("C", "red")]
     labels = {"A": "The A Party", "B": "The B Party", "C": "C Party"}
 
-    seat_changes = {
-        "AnyTown": ("A","B"),
-        "SmallTown": ("A","B"),
-        "BigTown": ("B","C"),
-        "SeaTown": ("B", "A"),
-        "HillTown": ("A","C"),
-        "StrangeTown": ("A","B"),
-        "NowhereTown": ("B","C"),
-        "FunnyTown": ("A","B")
-    }
+    voting_data = [
+        ("AnyTown",[0.7,0.2,0.1]),
+        ("SmallTown",[0.55,0.45,0.0]),
+        ("BigTown",[0.49,0.51,0.0]),
+        ("SeaTown",[0.1,0.7,0.2]),
+        ("HillTown",[0.6,0.0,0.4]),
+        ("StrangeTown",[0.55,0.40,0.05]),
+        ("NowhereTown",[0.1,0.8,0.1]),
+        ("FunnyTown",[0.9,0.05,0.05])
+    ]
 
     d = Diagram()
-    p = d.addNarrative()
-    p.addText("Election Results",font_size=32,font_style={"stroke":"purple"})
-    p.addText("Seats changing party, %s election - %s election"%("2009","2011"), font_size=28, font_style={"font-weight": "bold"})
-    p.addInfographic("cosmograph",palette,labels) \
-        .addDiscretePlot(1024, 512, seat_changes, axis_labels=["2009", "2011"])
-    p.addVerticalSpace(20)
-    p.addLegend(palette,labels,legend_columns=3)
+    n = d.addNarrative()
+    n.add(SOMPlot(voting_data,500,4,4,100,palette,labels))
+    n.addSpace(20,20)
+    n.addLegend(palette,labels,500,legend_columns=2)
+
     svg = d.draw()
 
     folder = os.path.split(sys.argv[0])[0]
-    outputpath = os.path.join(folder,"example_cosmograph.svg")
+    outputpath = os.path.join(folder, "example.svg")
     f = open(outputpath, "wb")
     f.write(svg)
     f.close()
-
